@@ -8,7 +8,7 @@ class BaseHandler(tornado.web.RequestHandler):
         self.session = session.TornadoSession(self.application.session_manager, self)
         
     def get_current_user(self):
-        user_json = self.session.get('username')
-        if not user_json: return None
-        return user_json
+        return self.session.get('username')
 
+    def get_user_image(self):
+        return self.session.get('image')

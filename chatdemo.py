@@ -15,7 +15,6 @@
 # under the License.
 
 import logging
-import auth
 import tornado.escape
 import tornado.ioloop
 import tornado.options
@@ -100,6 +99,7 @@ class MessageNewHandler(BaseHandler, MessageMixin):
         message = {
             "id": str(uuid.uuid4()),
             "from": self.current_user,
+            "image": self.get_user_image(),
             "body": self.get_argument("body"),
         }
         message["html"] = self.render_string("message.html", message=message)
