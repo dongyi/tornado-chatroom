@@ -1,0 +1,7 @@
+基于tornado自带chatdemo的例子
+
+原来是用google openid登录
+
+因为各种墙的问题，改成了oauth的方式，现在是用新浪微博的帐号
+
+session也是第三方实现
