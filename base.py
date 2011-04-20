@@ -91,18 +91,7 @@ class BaseHandler(tornado.web.RequestHandler):
         
     def get_host(self):
         """Returns the HTTP host using the environment or request headers."""
-        # We try three options, in order of decreasing preference.
-        if 'HTTP_X_FORWARDED_HOST' in self.request.headers:
-            host = self.request.headers.get('HTTP_X_FORWARDED_HOST')
-        elif 'HTTP_HOST' in self.request.headers:
-            host = self.request.headers.get('HTTP_HOST')
-        else:
-            # Reconstruct the host using the algorithm from PEP 333.
-            host = self.request.headers.get('SERVER_NAME')
-            server_port = str(self.request.headers.get('SERVER_PORT'))
-            if server_port != (self.is_secure() and '443' or '80'):
-                host = '%s:%s' % (host, server_port)
-        return host
+        return self.request.headers.get('Host')
         
     def build_absolute_uri(self, location=None):
         """
