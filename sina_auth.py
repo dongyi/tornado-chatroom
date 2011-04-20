@@ -8,10 +8,7 @@ from weibopy import OAuthHandler, oauth, WeibopError
 from tornado.options import define, options
 from base import BaseHandler
 import tornado.web
-import json
 
-import pylibmc
-mc = pylibmc.Client(['127.0.0.1:11211'])
 
 class WebOAuthHandler(OAuthHandler):
     def get_authorization_url_with_callback(self, callback, signin_with_twitter=False):
@@ -63,7 +60,6 @@ class AuthLoginCheckHandler(BaseHandler):
         self.session['oauth_access_token'] = access_token
         self.session.save()
         # 跳转回最初登录前的页面
-        #back_to_url = 'http://192.168.33.24:8000/'
         back_to_url = self.session.get('login_back_to_url', '/')
         return self.redirect(back_to_url)
 
@@ -74,6 +70,7 @@ class AuthLoginHandler(BaseHandler):
         back_to_url = _get_referer_url(self)
         self.session['login_back_to_url'] = back_to_url
 
+        # TODO: 要实现一个类似django里build_absulote_url的方法
         login_backurl = 'http://192.168.33.24:8000/wblogin_check'
         auth_client = _oauth()
 
