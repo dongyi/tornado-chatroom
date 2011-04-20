@@ -57,10 +57,10 @@ class AuthLoginCheckHandler(BaseHandler):
         access_token = auth_client.get_access_token(verifier)
         current_user = auth_client.get_username()
         api = API(auth_client)
-        profile_image_url = api.me().profile_image_url
-        
+
+        self.session['me'] = api.me()
         self.session['username'] = current_user
-        self.session['image'] = profile_image_url
+
         # 保存access_token，以后访问只需使用access_token即可
         self.session['oauth_access_token'] = access_token
         self.session.save()

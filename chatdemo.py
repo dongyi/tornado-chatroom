@@ -101,6 +101,7 @@ class MessageNewHandler(BaseHandler, MessageMixin):
             "from": self.current_user,
             "image": self.get_user_image(),
             "body": self.get_argument("body"),
+            "sina_url": self.get_user_url(),
         }
         message["html"] = self.render_string("message.html", message=message)
         if self.get_argument("next", None):
