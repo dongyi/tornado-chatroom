@@ -10,7 +10,6 @@ from base import BaseHandler
 import tornado.web
 from weibopy.api import API
 
-
 class WebOAuthHandler(OAuthHandler):
     def get_authorization_url_with_callback(self, callback, signin_with_twitter=False):
         """Get the authorization URL to redirect the user"""
@@ -76,6 +75,8 @@ class AuthLoginHandler(BaseHandler):
         self.session['login_back_to_url'] = back_to_url
 
         # TODO: 要实现一个类似django里build_absulote_url的方法
+        print "test here !!!"
+        print self.build_absolute_uri('/wblogin_check')
         login_backurl = 'http://192.168.33.24:8000/wblogin_check'
         auth_client = _oauth()
 
