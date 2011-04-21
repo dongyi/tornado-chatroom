@@ -121,7 +121,9 @@ class MessageUpdatesHandler(BaseHandler, MessageMixin):
 
     def on_new_messages(self, messages):
         # Closed client connection
+        print "waiters: ", self.waiters
         if self.request.connection.stream.closed():
+            print "closed....", messages
             return
         self.finish(dict(messages=messages))
 
@@ -132,6 +134,7 @@ def main():
     tornado.options.parse_command_line()
     app = Application()
     app.listen(options.port)
+    print "start on port %s..."%options.port
     tornado.ioloop.IOLoop.instance().start()
 
 

@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#from sina_auth import OAuthHandler
-#import sina_oauth as oauth 
-#WeibopError
 from weibopy import OAuthHandler, oauth, WeibopError
 from tornado.options import define, options
 from base import BaseHandler
@@ -47,7 +44,6 @@ class AuthLoginCheckHandler(BaseHandler):
         verifier = str(self.get_argument('oauth_verifier', None))
         auth_client = _oauth()
         # 设置之前保存在session的request_token
-        print self.session
         request_token = self.session['oauth_request_token']
         del self.session['oauth_request_token']
         self.session.save()
@@ -96,7 +92,7 @@ class AuthLogoutHandler(BaseHandler):
 def login_required(func):
     def new_func(*argc, **argkw):
         # check if the user logined
-        request = argc[0]
+        request = argkw.get('request') or argc[0]
         access_token = request.session.get('oauth_access_token')
         if access_token is None:
             return request.render("login.html")
