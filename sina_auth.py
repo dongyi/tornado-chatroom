@@ -5,6 +5,7 @@ from weibopy import OAuthHandler, oauth, WeibopError
 from tornado.options import define, options
 from base import BaseHandler
 import tornado.web
+import tornado.escape
 from weibopy.api import API
 
 class WebOAuthHandler(OAuthHandler):
@@ -55,11 +56,20 @@ class AuthLoginCheckHandler(BaseHandler):
 
         self.session['me'] = api.me()
         self.session['username'] = current_user
+        
+        #print 'mem.membershow()', mem.membershow(),'dir',dir(mem.membershow())
+        #print dir(api.me())
 
         # 保存access_token，以后访问只需使用access_token即可
         self.session['oauth_access_token'] = access_token
         self.session.save()
+        #for i in auth_client.__dict__().keys():
+         #   print escape(auth_client.__dict__[i])
+          #  print 
+
+        #print escape(auth_client.__dict__())
         # 跳转回最初登录前的页面
+        print current_user
         back_to_url = self.session.get('login_back_to_url', '/')
         return self.redirect(back_to_url)
 

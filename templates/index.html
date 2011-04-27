@@ -11,8 +11,13 @@
       <a href="/wblogout">{{ _("Sign out") }}</a>
     </div>
     <div id="body">
+        <div id="member">
+            {% for member in members.get("user").values()%}
+                {%include "member.html"%}
+            {%end%}
+        </div>
       <div id="inbox">
-        {% for message in messages %}
+        {% for message in members.get("messages") %}
           {% include "message.html" %}
         {% end %}
       </div>
