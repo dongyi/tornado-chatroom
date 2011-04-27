@@ -25,11 +25,11 @@ from sina_auth import AuthLogoutHandler, AuthLoginHandler, AuthLoginCheckHandler
 from tornado.options import define, options
 from base import BaseHandler
 import session
+from member import mem
 
-define("port", default=8000, help="run on the given port", type=int)
+define("port", default=41860, help="run on the given port", type=int)
 define("SINA_APP_KEY", default="3268956170", help="sina_app_key")
 define("SINA_APP_SECRET", default="edb869b055dd6c3041999c30f4fbb6ed", help="SINA_APP_SECRET")
-
 
 class Application(tornado.web.Application):
     def __init__(self):
@@ -41,6 +41,7 @@ class Application(tornado.web.Application):
             (r"/wblogin_check", AuthLoginCheckHandler),
             (r"/a/message/new", MessageNewHandler),
             (r"/a/message/updates", MessageUpdatesHandler),
+            (r"/a/member/new", MemberNewHandler),
         ]
         settings = dict(
             cookie_secret="43oETzKXQAGaYdkL5gEmGeJJFuYh7EQnp2XdTP1o/Vo=",
@@ -58,7 +59,17 @@ class Application(tornado.web.Application):
 class MainHandler(BaseHandler):
     @login_required
     def get(self):
-        self.render("index.html", messages=MessageMixin.cache)
+        print(dir(self.session['me']))
+        mem.memberadd(self.session['me'].id,self.session['me'])
+        member_list = mem.membershow()
+        print member_list
+        for i in member_list.keys():
+            print i
+        member={
+                "user":member_list,
+                "messages": MessageMixin.cache                
+                }
+        self.render("index.html",  members=member)
 
 
 class MessageMixin(object):
@@ -92,6 +103,12 @@ class MessageMixin(object):
         if len(cls.cache) > self.cache_size:
             cls.cache = cls.cache[-self.cache_size:]
 
+class MemberNewHandler(BaseHandler):
+    @login_required
+    def get(self):
+        mem.memberrm(self.session['me'].id)
+        self.finish('Y')
+
 
 class MessageNewHandler(BaseHandler, MessageMixin):
     @login_required
@@ -102,6 +119,7 @@ class MessageNewHandler(BaseHandler, MessageMixin):
             "image": self.get_user_image(),
             "body": self.get_argument("body"),
             "sina_url": self.get_user_url(),
+            
         }
         message["html"] = self.render_string("message.html", message=message)
         if self.get_argument("next", None):
@@ -122,6 +140,7 @@ class MessageUpdatesHandler(BaseHandler, MessageMixin):
     def on_new_messages(self, messages):
         # Closed client connection
         print "waiters: ", self.waiters
+        #print self.waiters.__contains__()
         if self.request.connection.stream.closed():
             print "closed....", messages
             return
