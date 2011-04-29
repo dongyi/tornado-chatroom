@@ -92,7 +92,7 @@ class AuthLoginHandler(BaseHandler):
 
 class AuthLogoutHandler(BaseHandler):
     def get(self):
-        del self.session['oauth_access_token']
+        self.session.clear()
         self.session.save()
         back_to_url = _get_referer_url(self)
         self.write("You are now logged out")
