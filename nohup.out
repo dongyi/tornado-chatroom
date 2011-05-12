@@ -1,0 +1,1664 @@
+[I 110508 18:40:12 web:1243] 304 GET / (123.103.6.9) 11.19ms
+[I 110508 18:40:12 web:1243] 304 GET /static/chat.css?v=26da2 (123.103.6.9) 4.78ms
+[I 110508 18:40:12 web:1243] 304 GET /static/chat.js?v=5d804 (123.103.6.9) 0.49ms
+[I 110508 18:40:15 web:1243] 200 GET / (111.194.148.15) 1.01ms
+[I 110508 18:40:15 web:1243] 304 GET /static/chat.css?v=26da2 (111.194.148.15) 0.49ms
+[I 110508 18:40:15 web:1243] 304 GET /static/chat.js?v=5d804 (111.194.148.15) 0.45ms
+[I 110508 18:40:16 web:1243] 200 GET / (123.122.114.36) 1.19ms
+[I 110508 18:40:16 web:1243] 200 GET /static/chat.css?v=26da2 (123.122.114.36) 0.54ms
+[W 110508 18:40:17 web:1243] 404 GET /favicon.ico (123.122.114.36) 0.32ms
+[I 110508 18:40:19 chatdemo:97] Sending new message to 3 listeners
+[I 110508 18:40:19 web:1243] 200 POST /a/message/updates (123.103.6.9) 7064.75ms
+[I 110508 18:40:19 web:1243] 200 POST /a/message/updates (111.194.148.15) 3946.00ms
+[I 110508 18:40:19 web:1243] 200 POST /a/message/new (123.103.6.9) 4.25ms
+[W 110508 18:40:19 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.25ms
+[W 110508 18:40:19 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.30ms
+[I 110508 18:40:22 chatdemo:97] Sending new message to 3 listeners
+[I 110508 18:40:22 web:1243] 200 POST /a/message/updates (125.71.151.251) 3164.08ms
+[I 110508 18:40:22 web:1243] 200 POST /a/message/updates (111.194.148.15) 3074.12ms
+[I 110508 18:40:22 web:1243] 200 POST /a/message/updates (123.103.6.9) 3076.64ms
+[I 110508 18:40:22 web:1243] 200 POST /a/message/new (111.194.148.15) 3.72ms
+[I 110508 18:40:23 web:1243] 302 GET /wblogin?name=sina (123.122.114.36) 187.38ms
+[I 110508 18:40:32 chatdemo:97] Sending new message to 3 listeners
+[I 110508 18:40:32 web:1243] 200 POST /a/message/updates (123.103.6.9) 9506.30ms
+[I 110508 18:40:32 web:1243] 200 POST /a/message/updates (125.71.151.251) 9334.08ms
+[I 110508 18:40:32 web:1243] 200 POST /a/message/new (123.103.6.9) 4.12ms
+[I 110508 18:40:37 chatdemo:97] Sending new message to 3 listeners
+[I 110508 18:40:37 web:1243] 200 POST /a/message/updates (123.103.6.9) 4977.19ms
+[I 110508 18:40:37 web:1243] 200 POST /a/message/updates (125.71.151.251) 4869.04ms
+[I 110508 18:40:37 web:1243] 200 POST /a/message/updates (111.194.148.15) 3227.97ms
+[I 110508 18:40:37 web:1243] 200 POST /a/message/new (111.194.148.15) 3.65ms
+[W 110508 18:40:37 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.30ms
+[I 110508 18:40:39 web:1243] 302 GET /wblogin_check?oauth_token=970468f47fdb166e1c5233042d5dfa24&oauth_verifier=886265 (123.122.114.36) 233.78ms
+start on port 41860...
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x266bc68>}
+45116439
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x266bc68>, '4578503': <douban_oauth.douban_iterm instance at 0x26c71b8>}
+45116439
+4578503
+waiters:  [<function wrapper at 0x2668758>, <function wrapper at 0x26800c8>, <function wrapper at 0x26807d0>]
+closed.... [{'body': u'\u597d\u4e86', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="ma434edd4-f876-4378-9b2f-51f3002b9b3b"><b><a href="http://www.douban.com/people/KFCpenzi007/"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>\xe5\xa5\xbd\xe4\xba\x86</div>\n', 'id': 'a434edd4-f876-4378-9b2f-51f3002b9b3b'}]
+waiters:  [<function wrapper at 0x2668758>, <function wrapper at 0x26800c8>, <function wrapper at 0x26807d0>]
+waiters:  [<function wrapper at 0x2668758>, <function wrapper at 0x26800c8>, <function wrapper at 0x26807d0>]
+waiters:  [<function wrapper at 0x2680aa0>, <function wrapper at 0x2680b90>, <function wrapper at 0x2680b18>]
+waiters:  [<function wrapper at 0x2680aa0>, <function wrapper at 0x2680b90>, <function wrapper at 0x2680b18>]
+waiters:  [<function wrapper at 0x2680aa0>, <function wrapper at 0x2680b90>, <function wrapper at 0x2680b18>]
+sina
+waiters:  [<function wrapper at 0x26807d0>, <function wrapper at 0x26808c0>, <function wrapper at 0x2680aa0>]
+closed.... [{'body': u'\u73b0\u5728\u5c31\u4e00\u76f4\u6302\u5728\u7ebf\u4e0a\u4e86', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="m0a39db14-c104-4e15-8109-8791d2edddb1"><b><a href="http://www.douban.com/people/KFCpenzi007/"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>\xe7\x8e\xb0\xe5\x9c\xa8\xe5\xb0\xb1\xe4\xb8\x80\xe7\x9b\xb4\xe6\x8c\x82\xe5\x9c\xa8\xe7\xba\xbf\xe4\xb8\x8a\xe4\xba\x86</div>\n', 'id': '0a39db14-c104-4e15-8109-8791d2edddb1'}]
+waiters:  [<function wrapper at 0x26807d0>, <function wrapper at 0x26808c0>, <function wrapper at 0x2680aa0>]
+waiters:  [<function wrapper at 0x26807d0>, <function wrapper at 0x26808c0>, <function wrapper at 0x2680aa0>]
+waiters:  [<function wrapper at 0x2680a28>, <function wrapper at 0x2680aa0>, <function wrapper at 0x2680cf8>]
+waiters:  [<function wrapper at 0x2680a28>, <function wrapper at 0x2680aa0>, <function wrapper at 0x2680cf8>]
+waiters:  [<function wrapper at 0x2680a28>, <function wrapper at 0x2680aa0>, <function wrapper at 0x2680cf8>]
+Access token key: 05c09a29368a1ebb824dd5b1d673b127
+Access token secret: 080d5c2bfaaf8088f350eda9c61b6c25
+<weibopy.models.User object at 0x26dcb90>
+oauth_token_secret=080d5c2bfaaf8088f350eda9c61b6c25&oauth_token=05c09a29368a1ebb824dd5b1d673b127
+武汉辣鸭脖子
+['__class__', '__delattr__', '__dict__', '__doc__', '__format__', '__getattribute__', '__getstate__', '__hash__', '__init__', '__module__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'allow_all_act_msg', 'city', 'created_at', 'description', 'domain', 'favourites_count', 'follow', 'followers', 'followers_count', 'followers_ids', 'following', 'friends', 'friends_count', 'gender', 'geo_enabled', 'id', 'lists', 'lists_memberships', 'lists_subscriptions', 'location', 'name', 'parse', 'parse_list', 'profile_image_url', 'province', 'screen_name', 'status', 'statuses_count', 'timeline', 'unfollow', 'url', 'verified']
+{'45116439': <douban_oauth.douban_iterm instance at 0x266bc68>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x26c71[I 110508 18:40:39 web:1243] 200 GET / (123.122.114.36) 2.44ms
+[I 110508 18:40:39 web:1243] 200 GET /static/chat.js?v=5d804 (123.122.114.36) 0.55ms
+[I 110508 18:40:47 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:40:47 web:1243] 200 POST /a/message/updates (123.103.6.9) 9615.48ms
+[I 110508 18:40:47 web:1243] 200 POST /a/message/updates (111.194.148.15) 9586.80ms
+[I 110508 18:40:47 web:1243] 200 POST /a/message/updates (125.71.151.251) 9423.09ms
+[I 110508 18:40:47 web:1243] 200 POST /a/message/updates (123.122.114.36) 856.23ms
+[I 110508 18:40:47 web:1243] 200 POST /a/message/new (123.122.114.36) 5.60ms
+[W 110508 18:40:47 web:1243] 404 GET /favicon.ico (123.122.114.36) 0.26ms
+[I 110508 18:40:50 web:1243] 200 GET / (123.103.6.9) 1.32ms
+[I 110508 18:40:50 web:1243] 304 GET /static/chat.css?v=26da2 (123.103.6.9) 0.45ms
+[I 110508 18:40:51 web:1243] 304 GET /static/chat.js?v=5d804 (123.103.6.9) 0.50ms
+[I 110508 18:40:53 web:1243] 304 GET / (123.103.6.9) 1.32ms
+[W 110508 18:40:53 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.32ms
+[I 110508 18:40:54 chatdemo:97] Sending new message to 6 listeners
+[I 110508 18:40:54 web:1243] 200 POST /a/message/updates (111.194.148.15) 7916.04ms
+[I 110508 18:40:54 web:1243] 200 POST /a/message/updates (123.122.114.36) 7903.64ms
+[I 110508 18:40:54 web:1243] 200 POST /a/message/updates (125.71.151.251) 7782.06ms
+[I 110508 18:40:54 web:1243] 200 POST /a/message/updates (123.103.6.9) 1476.10ms
+[I 110508 18:40:54 web:1243] 200 POST /a/message/new (123.122.114.36) 6.02ms
+[W 110508 18:40:55 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.29ms
+[I 110508 18:40:58 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:40:58 web:1243] 200 POST /a/message/updates (111.194.148.15) 2962.55ms
+[I 110508 18:40:58 web:1243] 200 POST /a/message/updates (123.122.114.36) 2951.02ms
+[I 110508 18:40:58 web:1243] 200 POST /a/message/updates (123.103.6.9) 2945.99ms
+[I 110508 18:40:58 web:1243] 200 POST /a/message/updates (125.71.151.251) 317.66ms
+[I 110508 18:40:58 web:1243] 200 POST /a/message/new (111.194.148.15) 3.80ms
+b8>}
+45116439
+1688545373
+4578503
+waiters:  [<function wrapper at 0x2680050>, <function wrapper at 0x26808c0>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e20c8>]
+waiters:  [<function wrapper at 0x2680050>, <function wrapper at 0x26808c0>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e20c8>]
+waiters:  [<function wrapper at 0x2680050>, <function wrapper at 0x26808c0>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e20c8>]
+waiters:  [<function wrapper at 0x2680050>, <function wrapper at 0x26808c0>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e20c8>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x26de9e0>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x26c71b8>}
+45116439
+1688545373
+4578503
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x26cdb48>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x26c71b8>}
+45116439
+1688545373
+4578503
+waiters:  [<function wrapper at 0x2680d70>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680a28>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e5500>]
+waiters:  [<function wrapper at 0x2680d70>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680a28>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e5500>]
+closed.... [{'body': u'\u6211\u53bb', 'from': u'\u6b66\u6c49\u8fa3\u9e2d\u8116\u5b50', 'sina_url': '', 'image': 'http://tp2.sinaimg.cn/1688545373/50/5597149242/0', 'html': '\n<div class="message" id="m553b3700-98c7-4dc8-a837-0adae3249967"><b><a href=""><img src="http://tp2.sinaimg.cn/1688545373/50/5597149242/0" height=40 width=40></img></a>\xe6\xad\xa6\xe6\xb1\x89\xe8\xbe\xa3\xe9\xb8\xad\xe8\x84\x96\xe5\xad\x90: </b>\xe6\x88\x91\xe5\x8e\xbb</div>\n', 'id': '553b3700-98c7-4dc8-a837-0adae3249967'}]
+waiters:  [<function wrapper at 0x2680d70>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680a28>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e5500>]
+waiters:  [<function wrapper at 0x2680d70>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680a28>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e5500>]
+waiters:  [<function wrapper at 0x2680d70>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680a28>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e5500>]
+closed.... [{'body': u'\u6211\u53bb', 'from': u'\u6b66\u6c49\u8fa3\u9e2d\u8116\u5b50', 'sina_url': '', 'image': 'http://tp2.sinaimg.cn/1688545373/50/5597149242/0', 'html': '\n<div class="message" id="m553b3700-98c7-4dc8-a837-0adae3249967"><b><a href=""><img src="http://tp2.sinaimg.cn/1688545373/50/5597149242/0" height=40 width=40></img></a>\xe6\xad\xa6\xe6\xb1\x89\xe8\xbe\xa3\xe9\xb8\xad\xe8\x84\x96\xe5\xad\x90: </b>\xe6\x88\x91\xe5\x8e\xbb</div>\n', 'id': '553b3700-98c7-4dc8-a837-0adae3249967'}]
+waiters:  [<function wrapper at 0x2680d70>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680a28>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e5500>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x2680e60>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680de8>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x2680e60>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680de8>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x2680e60>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680de8>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x2680e60>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680de8>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'us[I 110508 18:40:58 web:1243] 200 GET / (123.103.6.9) 1.44ms
+[I 110508 18:41:08 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:41:08 web:1243] 200 POST /a/message/updates (111.194.148.15) 10897.51ms
+[I 110508 18:41:08 web:1243] 200 POST /a/message/updates (123.122.114.36) 10890.86ms
+[I 110508 18:41:08 web:1243] 200 POST /a/message/updates (123.103.6.9) 10813.69ms
+[I 110508 18:41:08 web:1243] 200 POST /a/message/updates (125.71.151.251) 10766.83ms
+[I 110508 18:41:08 web:1243] 200 POST /a/message/new (123.122.114.36) 7.58ms
+[W 110508 18:41:09 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.26ms
+[I 110508 18:41:28 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:41:28 web:1243] 200 POST /a/message/updates (123.122.114.36) 18954.85ms
+[I 110508 18:41:28 web:1243] 200 POST /a/message/updates (125.71.151.251) 18798.36ms
+[I 110508 18:41:28 web:1243] 200 POST /a/message/updates (111.194.148.15) 17842.21ms
+[I 110508 18:41:28 web:1243] 200 POST /a/message/new (111.194.148.15) 3.59ms
+[I 110508 18:41:34 web:1243] 200 GET / (111.194.148.15) 1.37ms
+[I 110508 18:41:34 web:1243] 304 GET /static/chat.css?v=26da2 (111.194.148.15) 0.45ms
+[I 110508 18:41:35 web:1243] 304 GET /static/chat.js?v=5d804 (111.194.148.15) 0.48ms
+[I 110508 18:41:36 web:1243] 200 GET / (123.103.6.9) 1.43ms
+[I 110508 18:41:52 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:41:52 web:1243] 200 POST /a/message/updates (125.71.151.251) 24592.48ms
+[I 110508 18:41:52 web:1243] 200 POST /a/message/updates (123.122.114.36) 23710.45ms
+[I 110508 18:41:52 web:1243] 200 POST /a/message/updates (111.194.148.15) 17622.72ms
+[I 110508 18:41:52 web:1243] 200 POST /a/message/updates (123.103.6.9) 16542.81ms
+[I 110508 18:41:52 web:1243] 200 POST /a/message/new (219.155.55.168) 5.34ms
+[W 110508 18:41:52 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.30ms
+[W 110508 18:41:52 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.28ms
+[I 110508 18:41:59 chatdemo:97] Sending new message to 4 listeners
+ername']
+{'45116439': <douban_oauth.douban_iterm instance at 0x26fe8c0>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x26c71b8>}
+45116439
+1688545373
+4578503
+waiters:  [<function wrapper at 0x2680d70>, <function wrapper at 0x2680050>, <function wrapper at 0x26805f0>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2680d70>, <function wrapper at 0x2680050>, <function wrapper at 0x26805f0>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2680d70>, <function wrapper at 0x2680050>, <function wrapper at 0x26805f0>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2680d70>, <function wrapper at 0x2680050>, <function wrapper at 0x26805f0>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680050>]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680050>]
+closed.... [{'body': u'\u9e2d\u8116\u5b50\u4f60\u5e72\u68ee\u561b', 'from': 'basket\xe2\x84\xa2', 'sina_url': 'http://www.douban.com/people/basket/', 'image': 'http://img3.douban.com/icon/u4578503-154.jpg', 'html': '\n<div class="message" id="ma896615d-0db4-41a3-ad2f-4311ff97dac5"><b><a href="http://www.douban.com/people/basket/"><img src="http://img3.douban.com/icon/u4578503-154.jpg" height=40 width=40></img></a>basket\xe2\x84\xa2: </b>\xe9\xb8\xad\xe8\x84\x96\xe5\xad\x90\xe4\xbd\xa0\xe5\xb9\xb2\xe6\xa3\xae\xe5\x98\x9b</div>\n', 'id': 'a896615d-0db4-41a3-ad2f-4311ff97dac5'}]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680050>]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680050>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x26fe8c0>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x26d7fc8>}
+45116439
+1688545373
+4578503
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x27c2bd8>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x26d7fc8>}
+45116439
+1688545373
+4578503
+waiters:  [<function wrapper at 0x2680e60>, <function wrapper at 0x2680d70>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e56e0>, <function wrapper at 0x26e5c08>]
+closed.... [{'body': u'\u8d70\u5148\uff01\uff01', 'from': '\xe6\x96\xaf\xe6\x96\x87\xe8\xb4\xa5\xe7\xb1\xbb', 'sina_url': 'http://www.douban.com/people/volcano0705/', 'image': 'http://img3.douban.com/icon/u36049124-20.jpg', 'html': '\n<div class="message" id="m4dda1c11-75f8-4eb8-bb74-dfad2bc86c5b"><b><a href="http://www.douban.com/people/volcano0705/"><img src="http://img3.douban.com/icon/u36049124-20.jpg" height=40 width=40></img></a>\xe6\x96\xaf\xe6\x96\x87\xe8\xb4\xa5\xe7\xb1\xbb: </b>\xe8\xb5\xb0\xe5\x85\x88\xef\xbc\x81\xef\xbc\x81</div>\n', 'id': '4dda1c11-75f8-4eb8-bb74-dfad2bc86c5b'}]
+waiters:  [<function wrapper at 0x2680e60>, <function wrapper at 0x2680d70>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e56e0>, <function wrapper at 0x26e5c08>]
+waiters:  [<function wrapper at 0x2680e60>, <function wrapper at 0x2680d70>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e56e0>, <function wrapper at 0x26e5c08>]
+waiters:  [<function wrapper at 0x2680e60>, <function wrapper at 0x2680d70>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e56e0>, <function wrapper at 0x26e5c08>]
+waiters:  [<function wrapper at 0x2680e60>, <function wrapper at 0x2680d70>, <function wrapper at 0x2680de8>, <function wrapper at 0x26e56e0>, <function wrapper at 0x26e5c08>]
+waiters:  [<function wrapper at 0x2680d70>, <function wrapper at 0x26e5b90>, <function[I 110508 18:41:59 web:1243] 200 POST /a/message/updates (123.103.6.9) 6984.08ms
+[I 110508 18:41:59 web:1243] 200 POST /a/message/updates (111.194.148.15) 6961.95ms
+[I 110508 18:41:59 web:1243] 200 POST /a/message/updates (125.71.151.251) 6512.65ms
+[I 110508 18:41:59 web:1243] 200 POST /a/message/updates (123.122.114.36) 5677.86ms
+[I 110508 18:41:59 web:1243] 200 POST /a/message/new (123.103.6.9) 4.81ms
+[I 110508 18:42:01 web:1243] 200 GET / (123.103.6.9) 1.54ms
+[I 110508 18:42:01 web:1243] 304 GET /static/chat.css?v=26da2 (123.103.6.9) 0.65ms
+[I 110508 18:42:01 web:1243] 304 GET /static/chat.js?v=5d804 (123.103.6.9) 0.57ms
+[E 110508 18:42:02 web:908] Uncaught exception GET /wblogout (219.155.55.168)
+    HTTPRequest(protocol='http', host='stdyun.com:41860', method='GET', uri='/wblogout', version='HTTP/1.1', remote_ip='219.155.55.168', body='', headers={'Accept-Language': 'zh-CN,zh;q=0.8', 'Accept-Encoding': 'gzip,deflate,sdch', 'Host': 'stdyun.com:41860', 'Accept': 'application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5', 'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.107 Safari/534.13', 'Accept-Charset': 'GBK,utf-8;q=0.7,*;q=0.3', 'Connection': 'keep-alive', 'Referer': 'http://stdyun.com:41860/', 'Cookie': 'session_id=MGI0ZGFmNjI3MmZiMGNlM2YwYTVlNmY5MWVhMGU1OGY=|1304850507|3e44f25b2369ee914520b65be0d2f16b2b453a39; hmac_digest=Y2FiY2U5NjQ2Y2YwNDA5OWJhZDg1YTI1NmYxNDU0N2Y4ODEzMDc4MA==|1304850507|e29e0f933009e5e27ca0db587b7a235a3b5f093b; _xsrf=5c64029425084d1c8b661f39ce697a9f'})
+    Traceback (most recent call last):
+      File "/home/vhost/s190/lib/python2.6/site-packages/tornado-1.2.1-py2.6.egg/tornado/web.py", line 869, in _execute
+        getattr(self, self.request.method.lower())(*args, **kwargs)
+      File "/home/vhost/s190/dongyi/tornado-chatroom/sina_auth.py", line 131, in get
+        mem.memberrm(self.session['me'].id)
+      File "/home/vhost/s190/dongyi/tornado-chatroom/member.py", line 18, in memberrm
+        del(Member[userid])
+    KeyError: '36049124'
+[E 110508 18:42:02 web:1243] 500 GET /wblogout (219.155.55.168) 1.68ms
+[I 110508 18:42:23 web:1243] 200 GET / (111.194.148.15) 1.42ms
+[I 110508 18:42:23 web:1243] 304 GET /static/chat.css?v=26da2 (111.194.148.15) 0.44ms
+[I 110508 18:42:23 web:1243] 304 GET /static/chat.js?v=5d804 (111.194.148.15) 0.50ms
+[I 110508 18:42:31 web:1243] 304 GET / (123.103.6.9) 1.49ms
+[W 110508 18:42:31 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.32ms
+[I 110508 18:42:31 web:1243] 304 GET /static/chat.css?v=26da2 (123.103.6.9) 0.42ms
+[I 110508 18:42:31 web:1243] 304 GET /static/chat.js?v=5d804 (123.103.6.9) 0.45ms
+[I 110508 18:42:36 chatdemo:97] Sending new message to 7 listeners
+[I 110508 18:42:36 web:1243] 200 POST /a/message/updates (125.71.151.251) 36789.40ms
+[I 110508 18:42:36 web:1243] 200 POST /a/message/updates (123.122.114.36) 35708.61ms
+ wrapper at 0x2680e60>, <function wrapper at 0x26e5de8>]
+waiters:  [<function wrapper at 0x2680d70>, <function wrapper at 0x26e5b90>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5de8>]
+waiters:  [<function wrapper at 0x2680d70>, <function wrapper at 0x26e5b90>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5de8>]
+waiters:  [<function wrapper at 0x2680d70>, <function wrapper at 0x26e5b90>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5de8>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x26fe8c0>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x26d7fc8>}
+45116439
+1688545373
+4578503
+session.id 36049124
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x26fe8c0>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x27eb200>}
+45116439
+1688545373
+4578503
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x27ebc20>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x27eb200>}
+45116439
+1688545373
+4578503
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x2680578>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5de8>, <function wrapper at 0x27e5410>, <function wrapper at 0x27e56e0>, <function wrapper at 0x27e58c0>]
+closed.... [{'body': u'\u5199\u8bba\u6587\u554a', 'from': u'\u6b66\u6c49\u8fa3\u9e2d\u8116\u5b50', 'sina_url': '', 'image': 'http://tp2.sinaimg.cn/1688545373/50/5597149242/0', 'html': '\n<div class="message" id="ma002674d-8340-4fd2-9768-350332fd321c"><b><a href=""><img src="http://tp2.sinaimg.cn/1688545373/50/5597149242/0" height=40 width=40></img></a>\xe6\xad\xa6\xe6\xb1\x89\xe8\xbe\xa3\xe9\xb8\xad\xe8\x84\x96\xe5\xad\x90: </b>\xe5\x86\x99\xe8\xae\xba\xe6\x96\x87\xe5\x95\x8a</div>\n', 'id': 'a002674d-8340-4fd2-9768-350332fd321c'}]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x2680578>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5de8>, <function wrapper at 0x27e5410>, <function wrapper at 0x27e56e0>, <function wrapper at 0x27e58c0>]
+closed.... [{'body': u'\u5199\u8bba\u6587\u554a', 'from': u'\u6b66\u6c49\u8fa3\u9e2d\u8116\u5b50', 'sina_url': '', 'image': 'http://tp2.sinaimg.cn/1688545373/50/5597149242/0', 'html': '\n<div class="message" id="ma002674d-8340-4fd2-9768-350332fd321c"><b><a href=""><img src="http://tp2.sinaimg.cn/1688545373/50/5597149242/0" height=40 width=40></img></a>\xe6\xad\xa6\xe6\xb1\x89\xe8\xbe\xa3\xe9\xb8\xad\xe8\x84\x96\xe5\xad\x90: </b>\xe5\x86\x99\xe8\xae\xba\xe6\x96\x87\xe5\x95\x8a</div>\n', 'id': 'a002674d-8340-4fd2-9768-350332fd321c'}]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x2680578>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5de8>, <function wrapper at 0x27e5410>, <function wrapper at 0x27e56e0>, <function wrapper at 0x27e58c0>]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x2680578>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5de8>, <function wrapper at 0x27e5410>, <function wrapper at 0x27e56e0>, <function wrapper at 0x27e58c0>]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x2680578>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5de8>, <function wrapper at 0x27e5410>, <function wrapper at 0x27e56e0>, <function wrapper at 0x27e58c0>]
+closed.... [{'body': u'\u5199\u8bba\u6587\u554a', 'from': u'\u6b66\u6c49\u8fa3\u9e2d\u8116\u5b50', 'sina_url': '', 'image': 'http://tp2.sinaimg.cn/1688545373/50/5597149242/0', 'html': '\n<div class="message" id="ma002674d-8340-4fd2-9768-350332fd321c"><b><a href=""><img src="http://tp2.sinaimg.cn/1688545373/50/5597149242/0" height=40 width=40></img></a>\xe6\xad\xa6\xe6\xb1\x89\xe8\xbe\xa3\xe9\xb8\xad\xe8\x84\x96\xe5\xad\x9[I 110508 18:42:36 web:1243] 200 POST /a/message/updates (111.194.148.15) 12943.37ms
+[I 110508 18:42:36 web:1243] 200 POST /a/message/updates (123.103.6.9) 5605.98ms
+[I 110508 18:42:36 web:1243] 200 POST /a/message/new (123.122.114.36) 5.60ms
+[W 110508 18:42:36 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.29ms
+[W 110508 18:42:36 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.26ms
+[I 110508 18:43:07 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:43:07 web:1243] 200 POST /a/message/updates (123.122.114.36) 30386.90ms
+[I 110508 18:43:07 web:1243] 200 POST /a/message/updates (111.194.148.15) 30343.99ms
+[I 110508 18:43:07 web:1243] 200 POST /a/message/updates (125.71.151.251) 30258.59ms
+[I 110508 18:43:07 web:1243] 200 POST /a/message/updates (123.103.6.9) 29084.53ms
+[I 110508 18:43:07 web:1243] 200 POST /a/message/new (123.122.114.36) 8.00ms
+[I 110508 18:43:19 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:43:19 web:1243] 200 POST /a/message/updates (123.122.114.36) 11678.84ms
+[I 110508 18:43:19 web:1243] 200 POST /a/message/updates (125.71.151.251) 11404.11ms
+[I 110508 18:43:19 web:1243] 200 POST /a/message/updates (111.194.148.15) 10300.07ms
+[I 110508 18:43:19 web:1243] 200 POST /a/message/updates (123.103.6.9) 9810.84ms
+[I 110508 18:43:19 web:1243] 200 POST /a/message/new (111.194.148.15) 4.14ms
+[I 110508 18:43:26 web:1243] 200 GET / (111.194.148.15) 2.18ms
+[I 110508 18:43:30 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:43:30 web:1243] 200 POST /a/message/updates (111.194.148.15) 11228.63ms
+[I 110508 18:43:30 web:1243] 200 POST /a/message/updates (123.103.6.9) 11220.42ms
+[I 110508 18:43:30 web:1243] 200 POST /a/message/updates (125.71.151.251) 10602.23ms
+[I 110508 18:43:30 web:1243] 200 POST /a/message/updates (123.122.114.36) 9535.25ms
+[I 110508 18:43:30 web:1243] 200 POST /a/message/updates (111.194.148.15) 4108.53ms
+[I 110508 18:43:30 web:1243] 200 POST /a/message/new (111.194.148.15) 4.87ms
+[I 110508 18:43:33 web:1243] 200 GET / (123.103.6.9) 1.70ms
+[I 110508 18:43:33 web:1243] 304 GET /static/chat.css?v=26da2 (123.103.6.9) 0.46ms
+[I 110508 18:43:33 web:1243] 304 GET /static/chat.js?v=5d804 (123.103.6.9) 0.38ms
+[I 110508 18:43:43 chatdemo:97] Sending new message to 6 listeners
+0: </b>\xe5\x86\x99\xe8\xae\xba\xe6\x96\x87\xe5\x95\x8a</div>\n', 'id': 'a002674d-8340-4fd2-9768-350332fd321c'}]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x2680578>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5de8>, <function wrapper at 0x27e5410>, <function wrapper at 0x27e56e0>, <function wrapper at 0x27e58c0>]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x2680578>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5de8>, <function wrapper at 0x27e5410>, <function wrapper at 0x27e56e0>, <function wrapper at 0x27e58c0>]
+waiters:  [<function wrapper at 0x2680aa0>, <function wrapper at 0x26e29b0>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5b18>]
+waiters:  [<function wrapper at 0x2680aa0>, <function wrapper at 0x26e29b0>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5b18>]
+waiters:  [<function wrapper at 0x2680aa0>, <function wrapper at 0x26e29b0>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5b18>]
+waiters:  [<function wrapper at 0x2680aa0>, <function wrapper at 0x26e29b0>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5b18>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x2680578>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5938>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x2680578>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5938>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x2680578>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5938>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x2680578>, <function wrapper at 0x2680e60>, <function wrapper at 0x26e5938>]
+['__class__', '__delattr__', '__dict__', '__doc__', '__format__', '__getattribute__', '__getstate__', '__hash__', '__init__', '__module__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'allow_all_act_msg', 'city', 'created_at', 'description', 'domain', 'favourites_count', 'follow', 'followers', 'followers_count', 'followers_ids', 'following', 'friends', 'friends_count', 'gender', 'geo_enabled', 'id', 'lists', 'lists_memberships', 'lists_subscriptions', 'location', 'name', 'parse', 'parse_list', 'profile_image_url', 'province', 'screen_name', 'status', 'statuses_count', 'timeline', 'unfollow', 'url', 'verified']
+{1785761782: <weibopy.models.User object at 0x27ef610>, '45116439': <douban_oauth.douban_iterm instance at 0x27ebc20>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x27eb200>}
+1785761782
+45116439
+1688545373
+4578503
+waiters:  [<function wrapper at 0x26e5758>, <function wrapper at 0x2680410>, <function wrapper at 0x2680aa0>, <function wrapper at 0x2680578>, <function wrapper at 0x27e55f0>]
+waiters:  [<function wrapper at 0x26e5758>, <function wrapper at 0x2680410>, <function wrapper at 0x2680aa0>, <function wrapper at 0x2680578>, <function wrapper at 0x27e55f0>]
+waiters:  [<function wrapper at 0x26e5758>, <function wrapper at 0x2680410>, <function wrapper at 0x2680aa0>, <function wrapper at 0x2680578>, <function wrapper at 0x27e55f0>]
+waiters:  [<function wrapper at 0x26e5758>, <function wrapper at 0x2680410>, <function wrapper at 0x2680aa0>, <function wrapper at 0x2680578>, <function wrapper at 0x27e55f0>]
+waiters:  [<function wrapper at 0x26e5758>, <function wrapper at 0x2680410>, <function wrapper at 0x2680aa0>, <function wrapper at 0x2680578>, <function wrapper at 0x27e55f0>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{1785761782: <weibopy.models.User object at 0x27ef610>, '45116439': <douban_oauth.douban_iterm instance at 0x27f7d88>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x27eb200>}
+1785761782
+45116439
+1688545373
+4578503
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x26e5de8>, <function wrapper at 0x2680410>, <function wrapper at 0x26805[I 110508 18:43:43 web:1243] 200 POST /a/message/updates (111.194.148.15) 12732.95ms
+[I 110508 18:43:43 web:1243] 200 POST /a/message/updates (111.194.148.15) 12658.25ms
+[I 110508 18:43:43 web:1243] 200 POST /a/message/updates (125.71.151.251) 12602.84ms
+[I 110508 18:43:43 web:1243] 200 POST /a/message/updates (123.122.114.36) 11341.41ms
+[I 110508 18:43:43 web:1243] 200 POST /a/message/updates (123.103.6.9) 9844.83ms
+[I 110508 18:43:43 web:1243] 200 POST /a/message/new (123.103.6.9) 5.01ms
+[W 110508 18:43:43 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.26ms
+[I 110508 18:44:06 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:44:06 web:1243] 200 POST /a/message/updates (111.194.148.15) 23554.10ms
+[I 110508 18:44:06 web:1243] 200 POST /a/message/updates (111.194.148.15) 23519.77ms
+[I 110508 18:44:06 web:1243] 200 POST /a/message/updates (123.103.6.9) 23526.61ms
+[I 110508 18:44:06 web:1243] 200 POST /a/message/updates (125.71.151.251) 23408.92ms
+[I 110508 18:44:06 web:1243] 200 POST /a/message/updates (123.122.114.36) 21948.40ms
+[I 110508 18:44:06 web:1243] 200 POST /a/message/new (111.194.148.15) 5.33ms
+[I 110508 18:44:23 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:44:23 web:1243] 200 POST /a/message/updates (123.103.6.9) 16818.32ms
+[I 110508 18:44:23 web:1243] 200 POST /a/message/updates (111.194.148.15) 16808.64ms
+[I 110508 18:44:23 web:1243] 200 POST /a/message/updates (123.122.114.36) 16798.86ms
+[I 110508 18:44:23 web:1243] 200 POST /a/message/updates (125.71.151.251) 16689.25ms
+[I 110508 18:44:23 web:1243] 200 POST /a/message/updates (111.194.148.15) 16676.70ms
+[I 110508 18:44:23 web:1243] 200 POST /a/message/new (123.122.114.36) 7.33ms
+[I 110508 18:44:48 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:44:48 web:1243] 200 POST /a/message/updates (111.194.148.15) 24500.06ms
+[I 110508 18:44:48 web:1243] 200 POST /a/message/updates (123.122.114.36) 24501.91ms
+[I 110508 18:44:48 web:1243] 200 POST /a/message/updates (111.194.148.15) 24407.00ms
+78>, <function wrapper at 0x27e5488>, <function wrapper at 0x27e5938>]
+closed.... [{'body': u'\u3002\u3002\u53cc\u5f00\u4e86\uff0c\u597d\u8d31', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="m6378fa69-3feb-498f-9e34-5313c3cb33a3"><b><a href="http://www.douban.com/people/KFCpenzi007/"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>\xe3\x80\x82\xe3\x80\x82\xe5\x8f\x8c\xe5\xbc\x80\xe4\xba\x86\xef\xbc\x8c\xe5\xa5\xbd\xe8\xb4\xb1</div>\n', 'id': '6378fa69-3feb-498f-9e34-5313c3cb33a3'}]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x26e5de8>, <function wrapper at 0x2680410>, <function wrapper at 0x2680578>, <function wrapper at 0x27e5488>, <function wrapper at 0x27e5938>]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x26e5de8>, <function wrapper at 0x2680410>, <function wrapper at 0x2680578>, <function wrapper at 0x27e5488>, <function wrapper at 0x27e5938>]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x26e5de8>, <function wrapper at 0x2680410>, <function wrapper at 0x2680578>, <function wrapper at 0x27e5488>, <function wrapper at 0x27e5938>]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x26e5de8>, <function wrapper at 0x2680410>, <function wrapper at 0x2680578>, <function wrapper at 0x27e5488>, <function wrapper at 0x27e5938>]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x26e5de8>, <function wrapper at 0x2680410>, <function wrapper at 0x2680578>, <function wrapper at 0x27e5488>, <function wrapper at 0x27e5938>]
+waiters:  [<function wrapper at 0x2680aa0>, <function wrapper at 0x2680578>, <function wrapper at 0x27e58c0>, <function wrapper at 0x27e55f0>, <function wrapper at 0x27e59b0>]
+waiters:  [<function wrapper at 0x2680aa0>, <function wrapper at 0x2680578>, <function wrapper at 0x27e58c0>, <function wrapper at 0x27e55f0>, <function wrapper at 0x27e59b0>]
+waiters:  [<function wrapper at 0x2680aa0>, <function wrapper at 0x2680578>, <function wrapper at 0x27e58c0>, <function wrapper at 0x27e55f0>, <function wrapper at 0x27e59b0>]
+waiters:  [<function wrapper at 0x2680aa0>, <function wrapper at 0x2680578>, <function wrapper at 0x27e58c0>, <function wrapper at 0x27e55f0>, <function wrapper at 0x27e59b0>]
+waiters:  [<function wrapper at 0x2680aa0>, <function wrapper at 0x2680578>, <function wrapper at 0x27e58c0>, <function wrapper at 0x27e55f0>, <function wrapper at 0x27e59b0>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x2680410>, <function wrapper at 0x27e56e0>, <function wrapper at 0x26e5b18>, <function wrapper at 0x27e5a28>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x2680410>, <function wrapper at 0x27e56e0>, <function wrapper at 0x26e5b18>, <function wrapper at 0x27e5a28>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x2680410>, <function wrapper at 0x27e56e0>, <function wrapper at 0x26e5b18>, <function wrapper at 0x27e5a28>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x2680410>, <function wrapper at 0x27e56e0>, <function wrapper at 0x26e5b18>, <function wrapper at 0x27e5a28>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x2680410>, <function wrapper at 0x27e56e0>, <function wrapper at 0x26e5b18>, <function wrapper at 0x27e5a28>]
+waiters:  [<function wrapper at 0x2680410>, <function wrapper at 0x26e5848>, <function wrapper at 0x26e5b18>, <function wrapper at 0x27e5488>, <function wrapper at 0x27e5a28>]
+waiters:  [<function wrapper at 0x2680410>, <function wrapper at 0x26e5848>, <function wrapper at 0x26e5b18>, <function wrapper at 0x27e5488>, <function wrapper at 0x27e5a28>]
+waiters:  [<function wrapper at 0x2680410>, <function wrapper at 0x26e5848>, <function wrapper at 0x26e5b18>, <function wrapper at 0x27e5488>, <function wrapper at 0x27e5a28>]
+waiters:  [<function wrapper at 0x2680410>, <[I 110508 18:44:48 web:1243] 200 POST /a/message/updates (123.103.6.9) 24215.07ms
+[I 110508 18:44:48 web:1243] 200 POST /a/message/updates (125.71.151.251) 24109.09ms
+[I 110508 18:44:48 web:1243] 200 POST /a/message/new (111.194.148.15) 4.22ms
+[I 110508 18:45:09 web:1243] 200 GET / (111.194.148.15) 1.72ms
+[I 110508 18:45:09 web:1243] 304 GET /static/chat.css?v=26da2 (111.194.148.15) 0.48ms
+[I 110508 18:45:09 web:1243] 304 GET /static/chat.js?v=5d804 (111.194.148.15) 0.50ms
+[I 110508 18:45:16 chatdemo:97] Sending new message to 6 listeners
+[I 110508 18:45:16 web:1243] 200 POST /a/message/updates (123.103.6.9) 28054.68ms
+[I 110508 18:45:16 web:1243] 200 POST /a/message/updates (111.194.148.15) 28031.91ms
+[I 110508 18:45:16 web:1243] 200 POST /a/message/updates (125.71.151.251) 27680.53ms
+[I 110508 18:45:16 web:1243] 200 POST /a/message/updates (123.122.114.36) 26916.96ms
+[I 110508 18:45:16 web:1243] 200 POST /a/message/updates (111.194.148.15) 7111.59ms
+[I 110508 18:45:16 web:1243] 200 POST /a/message/new (111.194.148.15) 6.33ms
+[W 110508 18:45:16 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.31ms
+[I 110508 18:45:19 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:45:19 web:1243] 200 POST /a/message/updates (111.194.148.15) 2818.43ms
+[I 110508 18:45:19 web:1243] 200 POST /a/message/updates (111.194.148.15) 2809.73ms
+[I 110508 18:45:19 web:1243] 200 POST /a/message/updates (125.71.151.251) 2734.90ms
+[I 110508 18:45:19 web:1243] 200 POST /a/message/updates (123.122.114.36) 1865.96ms
+[I 110508 18:45:19 web:1243] 200 POST /a/message/updates (123.103.6.9) 1716.81ms
+[I 110508 18:45:19 web:1243] 200 POST /a/message/new (111.194.148.15) 8.59ms
+[I 110508 18:45:21 web:1243] 302 POST /a/message/new (125.71.151.251) 2.97ms
+[I 110508 18:45:21 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:45:21 web:1243] 200 POST /a/message/updates (111.194.148.15) 1946.67ms
+[I 110508 18:45:21 web:1243] 200 POST /a/message/updates (125.71.151.251) 1810.69ms
+[I 110508 18:45:21 web:1243] 200 POST /a/message/updates (111.194.148.15) 1804.58ms
+[I 110508 18:45:21 web:1243] 200 POST /a/message/updates (123.122.114.36) 881.54ms
+function wrapper at 0x26e5848>, <function wrapper at 0x26e5b18>, <function wrapper at 0x27e5488>, <function wrapper at 0x27e5a28>]
+waiters:  [<function wrapper at 0x2680410>, <function wrapper at 0x26e5848>, <function wrapper at 0x26e5b18>, <function wrapper at 0x27e5488>, <function wrapper at 0x27e5a28>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{1785761782: <weibopy.models.User object at 0x27ef610>, '45116439': <douban_oauth.douban_iterm instance at 0x27f7d88>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x29593f8>}
+1785761782
+45116439
+1688545373
+4578503
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x26e5de8>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5938>, <function wrapper at 0x27e5a28>, <function wrapper at 0x27e5d70>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x26e5de8>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5938>, <function wrapper at 0x27e5a28>, <function wrapper at 0x27e5d70>]
+closed.... [{'body': u'\u5567\u5567', 'from': u'\u5317\u7b50\u548c\u98a8', 'sina_url': '', 'image': 'http://tp3.sinaimg.cn/1785761782/50/5597420662/0', 'html': '\n<div class="message" id="m3c743004-1148-4a73-be6a-66554594d330"><b><a href=""><img src="http://tp3.sinaimg.cn/1785761782/50/5597420662/0" height=40 width=40></img></a>\xe5\x8c\x97\xe7\xad\x90\xe5\x92\x8c\xe9\xa2\xa8: </b>\xe5\x95\xa7\xe5\x95\xa7</div>\n', 'id': '3c743004-1148-4a73-be6a-66554594d330'}]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x26e5de8>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5938>, <function wrapper at 0x27e5a28>, <function wrapper at 0x27e5d70>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x26e5de8>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5938>, <function wrapper at 0x27e5a28>, <function wrapper at 0x27e5d70>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x26e5de8>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5938>, <function wrapper at 0x27e5a28>, <function wrapper at 0x27e5d70>]
+waiters:  [<function wrapper at 0x26805f0>, <function wrapper at 0x26e5de8>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5938>, <function wrapper at 0x27e5a28>, <function wrapper at 0x27e5d70>]
+waiters:  [<function wrapper at 0x26e5758>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5410>, <function wrapper at 0x27e5c80>, <function wrapper at 0x27e5d70>]
+waiters:  [<function wrapper at 0x26e5758>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5410>, <function wrapper at 0x27e5c80>, <function wrapper at 0x27e5d70>]
+waiters:  [<function wrapper at 0x26e5758>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5410>, <function wrapper at 0x27e5c80>, <function wrapper at 0x27e5d70>]
+waiters:  [<function wrapper at 0x26e5758>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5410>, <function wrapper at 0x27e5c80>, <function wrapper at 0x27e5d70>]
+waiters:  [<function wrapper at 0x26e5758>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5410>, <function wrapper at 0x27e5c80>, <function wrapper at 0x27e5d70>]
+waiters:  [<function wrapper at 0x26e5b18>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5cf8>, <function wrapper at 0x27e5938>, <function wrapper at 0x27e5410>]
+waiters:  [<function wrapper at 0x26e5b18>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5cf8>, <function wrapper at 0x27e5938>, <function wrapper at 0x27e5410>]
+waiters:  [<function wrapper at 0x26e5b18>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5cf8>, <function wrapper at 0x27e5938>, <function wrapper at 0x27e5410>]
+waiters:  [<function wrapper at 0x26e5b18>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5cf8>, <function wrapper at 0x27e5938>, <function wrapper at 0x27e5410>]
+waiters:  [<function wrapper at 0x26e5b18>, <function wrapper at 0x26e5848>, <function wrapper at 0x27e5cf8>, <function wrappe[I 110508 18:45:21 web:1243] 200 POST /a/message/updates (123.103.6.9) 702.34ms
+[I 110508 18:45:21 web:1243] 200 GET / (125.71.151.251) 1.81ms
+[I 110508 18:45:24 chatdemo:97] Sending new message to 6 listeners
+[I 110508 18:45:24 web:1243] 200 POST /a/message/updates (111.194.148.15) 2668.53ms
+[I 110508 18:45:24 web:1243] 200 POST /a/message/updates (111.194.148.15) 2602.32ms
+[I 110508 18:45:24 web:1243] 200 POST /a/message/updates (125.71.151.251) 2520.27ms
+[I 110508 18:45:24 web:1243] 200 POST /a/message/updates (125.71.151.251) 2051.16ms
+[I 110508 18:45:24 web:1243] 200 POST /a/message/updates (123.122.114.36) 1596.84ms
+[I 110508 18:45:24 web:1243] 200 POST /a/message/updates (123.103.6.9) 1431.46ms
+[I 110508 18:45:24 web:1243] 200 POST /a/message/new (111.194.148.15) 4.69ms
+[I 110508 18:45:29 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:45:29 web:1243] 200 POST /a/message/updates (111.194.148.15) 5064.72ms
+[I 110508 18:45:29 web:1243] 200 POST /a/message/updates (111.194.148.15) 5016.14ms
+[I 110508 18:45:29 web:1243] 200 POST /a/message/updates (125.71.151.251) 4947.61ms
+[I 110508 18:45:29 web:1243] 200 POST /a/message/updates (123.122.114.36) 3734.53ms
+[I 110508 18:45:29 web:1243] 200 POST /a/message/updates (123.103.6.9) 3562.57ms
+[I 110508 18:45:29 web:1243] 200 POST /a/message/new (111.194.148.15) 4.27ms
+[I 110508 18:45:33 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:45:33 web:1243] 200 POST /a/message/updates (111.194.148.15) 3917.86ms
+[I 110508 18:45:33 web:1243] 200 POST /a/message/updates (111.194.148.15) 3869.79ms
+[I 110508 18:45:33 web:1243] 200 POST /a/message/updates (125.71.151.251) 3794.02ms
+[I 110508 18:45:33 web:1243] 200 POST /a/message/updates (123.122.114.36) 2712.71ms
+[I 110508 18:45:33 web:1243] 200 POST /a/message/updates (123.103.6.9) 2535.58ms
+[I 110508 18:45:33 web:1243] 200 POST /a/message/new (111.194.148.15) 4.25ms
+[I 110508 18:45:39 web:1243] 200 GET / (123.150.182.115) 0.54ms
+[I 110508 18:45:39 web:1243] 200 GET /static/chat.css?v=26da2 (123.150.182.115) 0.48ms
+[W 110508 18:45:39 web:1243] 404 GET /favicon.ico (123.150.182.115) 0.32ms
+[I 110508 18:45:47 web:1243] 302 POST /a/message/new (125.71.151.251) 2.99ms
+[I 110508 18:45:47 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:45:47 web:1243] 200 POST /a/message/updates (111.194.148.15) 14208.24ms
+[I 110508 18:45:47 web:1243] 200 POST /a/message/updates (111.194.148.15) 14165.65ms
+[I 110508 18:45:47 web:1243] 200 POST /a/message/updates (125.71.151.251) 13868.34ms
+r at 0x27e5938>, <function wrapper at 0x27e5410>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'4295854': <douban_oauth.douban_iterm instance at 0x2968368>, 1785761782: <weibopy.models.User object at 0x27ef610>, '45116439': <douban_oauth.douban_iterm instance at 0x27f7d88>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x29593f8>}
+4295854
+1785761782
+45116439
+1688545373
+4578503
+waiters:  [<function wrapper at 0x26e5848>, <function wrapper at 0x27e5d70>, <function wrapper at 0x27e5c80>, <function wrapper at 0x27e5410>, <function wrapper at 0x2668320>, <function wrapper at 0x2668c80>]
+waiters:  [<function wrapper at 0x26e5848>, <function wrapper at 0x27e5d70>, <function wrapper at 0x27e5c80>, <function wrapper at 0x27e5410>, <function wrapper at 0x2668320>, <function wrapper at 0x2668c80>]
+waiters:  [<function wrapper at 0x26e5848>, <function wrapper at 0x27e5d70>, <function wrapper at 0x27e5c80>, <function wrapper at 0x27e5410>, <function wrapper at 0x2668320>, <function wrapper at 0x2668c80>]
+waiters:  [<function wrapper at 0x26e5848>, <function wrapper at 0x27e5d70>, <function wrapper at 0x27e5c80>, <function wrapper at 0x27e5410>, <function wrapper at 0x2668320>, <function wrapper at 0x2668c80>]
+waiters:  [<function wrapper at 0x26e5848>, <function wrapper at 0x27e5d70>, <function wrapper at 0x27e5c80>, <function wrapper at 0x27e5410>, <function wrapper at 0x2668320>, <function wrapper at 0x2668c80>]
+waiters:  [<function wrapper at 0x26e5848>, <function wrapper at 0x27e5d70>, <function wrapper at 0x27e5c80>, <function wrapper at 0x27e5410>, <function wrapper at 0x2668320>, <function wrapper at 0x2668c80>]
+waiters:  [<function wrapper at 0x2668b90>, <function wrapper at 0x2668500>, <function wrapper at 0x2668c80>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2668b90>, <function wrapper at 0x2668500>, <function wrapper at 0x2668c80>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2668b90>, <function wrapper at 0x2668500>, <function wrapper at 0x2668c80>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2668b90>, <function wrapper at 0x2668500>, <function wrapper at 0x2668c80>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2668b90>, <function wrapper at 0x2668500>, <function wrapper at 0x2668c80>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2668e60>, <function wrapper at 0x2668d70>, <function wrapper at 0x2668500>, <function wrapper at 0x2680de8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2668e60>, <function wrapper at 0x2668d70>, <function wrapper at 0x2668500>, <function wrapper at 0x2680de8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2668e60>, <function wrapper at 0x2668d70>, <function wrapper at 0x2668500>, <function wrapper at 0x2680de8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2668e60>, <function wrapper at 0x2668d70>, <function wrapper at 0x2668500>, <function wrapper at 0x2680de8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2668e60>, <function wrapper at 0x2668d70>, <function wrapper at 0x2668500>, <function wrapper at 0x2680de8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2668ed8>, <function wrapper at 0x2668320>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680d70>]
+waiters:  [<function wrapper at 0x2668ed8>, <function wrapper at 0x2668320>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680d70>]
+waiters:  [<function wrapper at 0x2668ed8>, <function wrapper at 0x2668320>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680d70>]
+waiters:  [<function wrapper at 0x2668ed8>, <function wrapper at 0x2668320>[I 110508 18:45:47 web:1243] 200 POST /a/message/updates (123.122.114.36) 12997.98ms
+[I 110508 18:45:47 web:1243] 200 POST /a/message/updates (123.103.6.9) 12810.42ms
+[I 110508 18:45:48 web:1243] 200 GET / (125.71.151.251) 1.95ms
+[I 110508 18:45:52 chatdemo:97] Sending new message to 6 listeners
+[I 110508 18:45:52 web:1243] 200 POST /a/message/updates (111.194.148.15) 4396.06ms
+[I 110508 18:45:52 web:1243] 200 POST /a/message/updates (111.194.148.15) 4371.92ms
+[I 110508 18:45:52 web:1243] 200 POST /a/message/updates (125.71.151.251) 4267.08ms
+[I 110508 18:45:52 web:1243] 200 POST /a/message/updates (123.103.6.9) 3264.40ms
+[I 110508 18:45:52 web:1243] 200 POST /a/message/updates (123.122.114.36) 2455.31ms
+[I 110508 18:45:52 web:1243] 200 POST /a/message/updates (125.71.151.251) 1597.62ms
+[I 110508 18:45:52 web:1243] 200 POST /a/message/new (111.194.148.15) 4.41ms
+[I 110508 18:45:57 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:45:57 web:1243] 200 POST /a/message/updates (111.194.148.15) 5208.67ms
+[I 110508 18:45:57 web:1243] 200 POST /a/message/updates (111.194.148.15) 5170.75ms
+[I 110508 18:45:57 web:1243] 200 POST /a/message/updates (125.71.151.251) 5100.12ms
+[I 110508 18:45:57 web:1243] 200 POST /a/message/updates (123.122.114.36) 3735.91ms
+[I 110508 18:45:57 web:1243] 200 POST /a/message/updates (123.103.6.9) 3540.87ms
+[I 110508 18:45:57 web:1243] 200 POST /a/message/new (111.194.148.15) 4.34ms
+[I 110508 18:46:01 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:46:01 web:1243] 200 POST /a/message/updates (123.122.114.36) 4105.75ms
+[I 110508 18:46:01 web:1243] 200 POST /a/message/updates (111.194.148.15) 4095.05ms
+[I 110508 18:46:01 web:1243] 200 POST /a/message/updates (111.194.148.15) 4028.74ms
+[I 110508 18:46:01 web:1243] 200 POST /a/message/updates (125.71.151.251) 3983.37ms
+[I 110508 18:46:01 web:1243] 200 POST /a/message/updates (123.103.6.9) 2711.22ms
+[I 110508 18:46:01 web:1243] 200 POST /a/message/new (111.194.148.15) 4.24ms
+[I 110508 18:46:13 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:46:13 web:1243] 200 POST /a/message/updates (123.122.114.36) 11424.73ms
+[I 110508 18:46:13 web:1243] 200 POST /a/message/updates (111.194.148.15) 11416.67ms
+, <function wrapper at 0x2668de8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680d70>]
+waiters:  [<function wrapper at 0x2668ed8>, <function wrapper at 0x2668320>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680d70>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'4295854': <douban_oauth.douban_iterm instance at 0x27f7f80>, 1785761782: <weibopy.models.User object at 0x27ef610>, '45116439': <douban_oauth.douban_iterm instance at 0x27f7d88>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x29593f8>}
+4295854
+1785761782
+45116439
+1688545373
+4578503
+waiters:  [<function wrapper at 0x2668d70>, <function wrapper at 0x2668320>, <function wrapper at 0x2668500>, <function wrapper at 0x2680500>, <function wrapper at 0x2680d70>, <function wrapper at 0x26802a8>]
+waiters:  [<function wrapper at 0x2668d70>, <function wrapper at 0x2668320>, <function wrapper at 0x2668500>, <function wrapper at 0x2680500>, <function wrapper at 0x2680d70>, <function wrapper at 0x26802a8>]
+waiters:  [<function wrapper at 0x2668d70>, <function wrapper at 0x2668320>, <function wrapper at 0x2668500>, <function wrapper at 0x2680500>, <function wrapper at 0x2680d70>, <function wrapper at 0x26802a8>]
+waiters:  [<function wrapper at 0x2668d70>, <function wrapper at 0x2668320>, <function wrapper at 0x2668500>, <function wrapper at 0x2680500>, <function wrapper at 0x2680d70>, <function wrapper at 0x26802a8>]
+waiters:  [<function wrapper at 0x2668d70>, <function wrapper at 0x2668320>, <function wrapper at 0x2668500>, <function wrapper at 0x2680500>, <function wrapper at 0x2680d70>, <function wrapper at 0x26802a8>]
+waiters:  [<function wrapper at 0x2668d70>, <function wrapper at 0x2668320>, <function wrapper at 0x2668500>, <function wrapper at 0x2680500>, <function wrapper at 0x2680d70>, <function wrapper at 0x26802a8>]
+waiters:  [<function wrapper at 0x2668de8>, <function wrapper at 0x2668b90>, <function wrapper at 0x2668500>, <function wrapper at 0x2680398>, <function wrapper at 0x2680a28>]
+waiters:  [<function wrapper at 0x2668de8>, <function wrapper at 0x2668b90>, <function wrapper at 0x2668500>, <function wrapper at 0x2680398>, <function wrapper at 0x2680a28>]
+waiters:  [<function wrapper at 0x2668de8>, <function wrapper at 0x2668b90>, <function wrapper at 0x2668500>, <function wrapper at 0x2680398>, <function wrapper at 0x2680a28>]
+waiters:  [<function wrapper at 0x2668de8>, <function wrapper at 0x2668b90>, <function wrapper at 0x2668500>, <function wrapper at 0x2680398>, <function wrapper at 0x2680a28>]
+waiters:  [<function wrapper at 0x2668de8>, <function wrapper at 0x2668b90>, <function wrapper at 0x2668500>, <function wrapper at 0x2680398>, <function wrapper at 0x2680a28>]
+waiters:  [<function wrapper at 0x2668cf8>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680050>, <function wrapper at 0x2680a28>]
+waiters:  [<function wrapper at 0x2668cf8>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680050>, <function wrapper at 0x2680a28>]
+waiters:  [<function wrapper at 0x2668cf8>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680050>, <function wrapper at 0x2680a28>]
+waiters:  [<function wrapper at 0x2668cf8>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680050>, <function wrapper at 0x2680a28>]
+waiters:  [<function wrapper at 0x2668cf8>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680050>, <function wrapper at 0x2680a28>]
+waiters:  [<function wrapper at 0x2668c80>, <function wrapper at 0x2668320>, <function wrapper at 0x2668500>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680a28>]
+waiters:  [<function wrapper at 0x2668c80>, <function wrapper at 0x2668320>, <function wrapper at 0x2668500>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680a28>]
+waiters:  [<function wra[I 110508 18:46:13 web:1243] 200 POST /a/message/updates (111.194.148.15) 11386.59ms
+[I 110508 18:46:13 web:1243] 200 POST /a/message/updates (125.71.151.251) 11297.92ms
+[I 110508 18:46:13 web:1243] 200 POST /a/message/updates (123.103.6.9) 10189.74ms
+[I 110508 18:46:13 web:1243] 200 POST /a/message/new (123.122.114.36) 8.42ms
+[I 110508 18:46:14 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:46:14 web:1243] 200 POST /a/message/updates (123.122.114.36) 1361.54ms
+[I 110508 18:46:14 web:1243] 200 POST /a/message/updates (111.194.148.15) 1355.17ms
+[I 110508 18:46:14 web:1243] 200 POST /a/message/updates (111.194.148.15) 1259.25ms
+[I 110508 18:46:14 web:1243] 200 POST /a/message/updates (125.71.151.251) 1092.47ms
+[I 110508 18:46:14 web:1243] 200 POST /a/message/new (111.194.148.15) 10.11ms
+[I 110508 18:46:14 web:1243] 200 POST /a/message/updates (123.103.6.9) 3.13ms
+[I 110508 18:46:23 web:1243] 200 GET / (111.194.148.15) 2.12ms
+[I 110508 18:46:23 web:1243] 304 GET /static/chat.css?v=26da2 (111.194.148.15) 0.45ms
+[I 110508 18:46:23 web:1243] 304 GET /static/chat.js?v=5d804 (111.194.148.15) 0.38ms
+[I 110508 18:46:25 web:1243] 302 POST /a/message/new (125.71.151.251) 2.95ms
+[I 110508 18:46:25 chatdemo:97] Sending new message to 6 listeners
+[I 110508 18:46:25 web:1243] 200 POST /a/message/updates (123.122.114.36) 10587.29ms
+[I 110508 18:46:25 web:1243] 200 POST /a/message/updates (125.71.151.251) 10436.10ms
+[I 110508 18:46:25 web:1243] 200 POST /a/message/updates (111.194.148.15) 10411.71ms
+[I 110508 18:46:25 web:1243] 200 POST /a/message/updates (123.103.6.9) 8239.64ms
+[I 110508 18:46:25 web:1243] 200 POST /a/message/updates (111.194.148.15) 1361.14ms
+[W 110508 18:46:25 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.26ms
+[I 110508 18:46:25 web:1243] 200 GET / (125.71.151.251) 2.10ms
+[I 110508 18:46:29 chatdemo:97] Sending new message to 6 listeners
+pper at 0x2668c80>, <function wrapper at 0x2668320>, <function wrapper at 0x2668500>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680a28>]
+waiters:  [<function wrapper at 0x2668c80>, <function wrapper at 0x2668320>, <function wrapper at 0x2668500>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680a28>]
+waiters:  [<function wrapper at 0x2668c80>, <function wrapper at 0x2668320>, <function wrapper at 0x2668500>, <function wrapper at 0x2680cf8>, <function wrapper at 0x2680a28>]
+waiters:  [<function wrapper at 0x2668d70>, <function wrapper at 0x2668b90>, <function wrapper at 0x2668500>, <function wrapper at 0x2680398>]
+waiters:  [<function wrapper at 0x2668d70>, <function wrapper at 0x2668b90>, <function wrapper at 0x2668500>, <function wrapper at 0x2680398>]
+waiters:  [<function wrapper at 0x2668d70>, <function wrapper at 0x2668b90>, <function wrapper at 0x2668500>, <function wrapper at 0x2680398>]
+waiters:  [<function wrapper at 0x2668d70>, <function wrapper at 0x2668b90>, <function wrapper at 0x2668500>, <function wrapper at 0x2680398>]
+waiters:  [<function wrapper at 0x2668cf8>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680050>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'4295854': <douban_oauth.douban_iterm instance at 0x27f7f80>, 1785761782: <weibopy.models.User object at 0x27ef610>, '45116439': <douban_oauth.douban_iterm instance at 0x27f7d88>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x27e7bd8>}
+4295854
+1785761782
+45116439
+1688545373
+4578503
+waiters:  [<function wrapper at 0x2668cf8>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680050>, <function wrapper at 0x2680c08>, <function wrapper at 0x26e58c0>]
+waiters:  [<function wrapper at 0x2668cf8>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680050>, <function wrapper at 0x2680c08>, <function wrapper at 0x26e58c0>]
+closed.... [{'body': u'\u4ed6\u5c31\u662f\u4e2a\u57fa\u4f6c', 'from': '\xe6\xa8\xb1\xe6\xa1\x83\xe4\xb8\xb8\xe5\xad\x90\xe9\x83\x9d\xe5\xbc\x80\xe5\xbf\x83', 'sina_url': 'http://www.douban.com/people/nafertia/', 'image': 'http://img3.douban.com/icon/u4295854-146.jpg', 'html': '\n<div class="message" id="md2f1455f-4fb9-4bff-a57e-bb30e4ff42c5"><b><a href="http://www.douban.com/people/nafertia/"><img src="http://img3.douban.com/icon/u4295854-146.jpg" height=40 width=40></img></a>\xe6\xa8\xb1\xe6\xa1\x83\xe4\xb8\xb8\xe5\xad\x90\xe9\x83\x9d\xe5\xbc\x80\xe5\xbf\x83: </b>\xe4\xbb\x96\xe5\xb0\xb1\xe6\x98\xaf\xe4\xb8\xaa\xe5\x9f\xba\xe4\xbd\xac</div>\n', 'id': 'd2f1455f-4fb9-4bff-a57e-bb30e4ff42c5'}]
+waiters:  [<function wrapper at 0x2668cf8>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680050>, <function wrapper at 0x2680c08>, <function wrapper at 0x26e58c0>]
+waiters:  [<function wrapper at 0x2668cf8>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680050>, <function wrapper at 0x2680c08>, <function wrapper at 0x26e58c0>]
+waiters:  [<function wrapper at 0x2668cf8>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680050>, <function wrapper at 0x2680c08>, <function wrapper at 0x26e58c0>]
+waiters:  [<function wrapper at 0x2668cf8>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668500>, <function wrapper at 0x2680050>, <function wrapper at 0x2680c08>, <function wrapper at 0x26e58c0>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'4295854': <douban_oauth.douban_iterm instance at 0x2959998>, 1785761782: <weibopy.models.User object at 0x27ef610>, '45116439': <douban_oauth.douban_iterm instance at 0x27f7d88>, 1688545373: <weibopy.models.User object at 0x26c58d0>, '4578503': <douban_oauth.douban_iterm instance at 0x27e7bd8>}
+4295854
+1785761782
+45116439
+1688545373
+4578503
+waiters:  [<function wrapper at 0x2668500>, <function wrapper at[I 110508 18:46:29 web:1243] 200 POST /a/message/updates (111.194.148.15) 4356.62ms
+[I 110508 18:46:29 web:1243] 200 POST /a/message/updates (111.194.148.15) 4306.40ms
+[I 110508 18:46:29 web:1243] 200 POST /a/message/updates (123.122.114.36) 4387.80ms
+[I 110508 18:46:29 web:1243] 200 POST /a/message/updates (125.71.151.251) 4273.91ms
+[I 110508 18:46:29 web:1243] 200 POST /a/message/updates (125.71.151.251) 3768.74ms
+[I 110508 18:46:29 web:1243] 200 POST /a/message/updates (123.103.6.9) 2706.92ms
+[I 110508 18:46:29 web:1243] 200 POST /a/message/new (111.194.148.15) 4.47ms
+[I 110508 18:46:33 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:46:33 web:1243] 200 POST /a/message/updates (123.122.114.36) 3910.24ms
+[I 110508 18:46:33 web:1243] 200 POST /a/message/updates (111.194.148.15) 3904.15ms
+[I 110508 18:46:33 web:1243] 200 POST /a/message/updates (111.194.148.15) 3858.87ms
+[I 110508 18:46:33 web:1243] 200 POST /a/message/updates (125.71.151.251) 3793.74ms
+[I 110508 18:46:33 web:1243] 200 POST /a/message/updates (123.103.6.9) 2847.63ms
+[I 110508 18:46:33 web:1243] 200 POST /a/message/new (123.103.6.9) 4.98ms
+[I 110508 18:46:42 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:46:42 web:1243] 200 POST /a/message/updates (123.122.114.36) 9371.38ms
+[I 110508 18:46:42 web:1243] 200 POST /a/message/updates (111.194.148.15) 9366.82ms
+[I 110508 18:46:42 web:1243] 200 POST /a/message/updates (123.103.6.9) 9360.27ms
+[I 110508 18:46:42 web:1243] 200 POST /a/message/updates (111.194.148.15) 9305.69ms
+[I 110508 18:46:42 web:1243] 200 POST /a/message/updates (125.71.151.251) 9251.90ms
+[I 110508 18:46:42 web:1243] 200 POST /a/message/new (123.103.6.9) 5.31ms
+[I 110508 18:46:46 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:46:46 web:1243] 200 POST /a/message/updates (123.103.6.9) 3529.48ms
+[I 110508 18:46:46 web:1243] 200 POST /a/message/updates (111.194.148.15) 3522.18ms
+[I 110508 18:46:46 web:1243] 200 POST /a/message/updates (125.71.151.251) 3353.47ms
+[I 110508 18:46:46 web:1243] 200 POST /a/message/updates (123.122.114.36) 3213.14ms
+[I 110508 18:46:46 web:1243] 200 POST /a/message/updates (111.194.148.15) 2517.96ms
+[I 110508 18:46:46 web:1243] 200 POST /a/message/new (123.103.6.9) 5.07ms
+[I 110508 18:46:52 web:1243] 302 POST /a/message/new (125.71.151.251) 3.03ms
+[I 110508 18:46:52 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:46:52 web:1243] 200 POST /a/message/updates (111.194.148.15) 6166.88ms
+ 0x2680c08>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e59b0>, <function wrapper at 0x26e5a28>, <function wrapper at 0x26e5de8>]
+waiters:  [<function wrapper at 0x2668500>, <function wrapper at 0x2680c08>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e59b0>, <function wrapper at 0x26e5a28>, <function wrapper at 0x26e5de8>]
+waiters:  [<function wrapper at 0x2668500>, <function wrapper at 0x2680c08>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e59b0>, <function wrapper at 0x26e5a28>, <function wrapper at 0x26e5de8>]
+waiters:  [<function wrapper at 0x2668500>, <function wrapper at 0x2680c08>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e59b0>, <function wrapper at 0x26e5a28>, <function wrapper at 0x26e5de8>]
+waiters:  [<function wrapper at 0x2668500>, <function wrapper at 0x2680c08>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e59b0>, <function wrapper at 0x26e5a28>, <function wrapper at 0x26e5de8>]
+waiters:  [<function wrapper at 0x2668500>, <function wrapper at 0x2680c08>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e59b0>, <function wrapper at 0x26e5a28>, <function wrapper at 0x26e5de8>]
+waiters:  [<function wrapper at 0x2680398>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e58c0>]
+waiters:  [<function wrapper at 0x2680398>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e58c0>]
+waiters:  [<function wrapper at 0x2680398>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e58c0>]
+waiters:  [<function wrapper at 0x2680398>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e58c0>]
+waiters:  [<function wrapper at 0x2680398>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e58c0>]
+waiters:  [<function wrapper at 0x2680b18>, <function wrapper at 0x2668500>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e5de8>]
+waiters:  [<function wrapper at 0x2680b18>, <function wrapper at 0x2668500>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e5de8>]
+waiters:  [<function wrapper at 0x2680b18>, <function wrapper at 0x2668500>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e5de8>]
+waiters:  [<function wrapper at 0x2680b18>, <function wrapper at 0x2668500>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e5de8>]
+waiters:  [<function wrapper at 0x2680b18>, <function wrapper at 0x2668500>, <function wrapper at 0x2668de8>, <function wrapper at 0x2668cf8>, <function wrapper at 0x26e5de8>]
+waiters:  [<function wrapper at 0x2680050>, <function wrapper at 0x2680b18>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668de8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2680050>, <function wrapper at 0x2680b18>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668de8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2680050>, <function wrapper at 0x2680b18>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668de8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2680050>, <function wrapper at 0x2680b18>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668de8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2680050>, <function wrapper at 0x2680b18>, <function wrapper at 0x2668ed8>, <function wrapper at 0x2668de8>, <function wrapper at 0x2680c08>]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x2680c08>, <function wrapper at 0x2680b18>, <function wrapper at 0x2668500>, <function wrapper at 0x2668ed8>]
+waiters:  [<function wrapper at 0x2680de8>, <function wrapper at 0x2680c08>, <function wra[I 110508 18:46:52 web:1243] 200 POST /a/message/updates (111.194.148.15) 6152.23ms
+[I 110508 18:46:52 web:1243] 200 POST /a/message/updates (123.122.114.36) 6149.55ms
+[I 110508 18:46:52 web:1243] 200 POST /a/message/updates (123.103.6.9) 6146.60ms
+[I 110508 18:46:52 web:1243] 200 POST /a/message/updates (125.71.151.251) 5965.20ms
+[I 110508 18:46:52 web:1243] 200 GET / (125.71.151.251) 2.18ms
+[I 110508 18:47:09 web:1243] 200 GET / (123.114.183.41) 6.61ms
+[I 110508 18:47:09 web:1243] 200 GET /static/chat.css?v=26da2 (123.114.183.41) 4.48ms
+[I 110508 18:47:13 web:1243] 200 GET / (123.103.6.9) 6.25ms
+[I 110508 18:47:13 web:1243] 304 GET /static/chat.css?v=26da2 (123.103.6.9) 0.49ms
+[I 110508 18:47:14 web:1243] 304 GET /static/chat.js?v=5d804 (123.103.6.9) 0.50ms
+[I 110508 18:47:18 web:1243] 200 GET / (111.194.148.15) 1.64ms
+[I 110508 18:47:18 web:1243] 304 GET /static/chat.css?v=26da2 (111.194.148.15) 0.42ms
+[I 110508 18:47:18 web:1243] 304 GET /static/chat.js?v=5d804 (111.194.148.15) 0.39ms
+[I 110508 18:47:19 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:47:19 web:1243] 200 POST /a/message/updates (125.71.151.251) 9894.15ms
+[I 110508 18:47:19 web:1243] 200 POST /a/message/updates (123.103.6.9) 4974.82ms
+[I 110508 18:47:19 web:1243] 200 POST /a/message/updates (111.194.148.15) 3720.78ms
+[I 110508 18:47:19 web:1243] 200 POST /a/message/updates (123.122.114.36) 3536.03ms
+[I 110508 18:47:19 web:1243] 200 POST /a/message/updates (111.194.148.15) 544.73ms
+[I 110508 18:47:19 web:1243] 200 POST /a/message/new (123.103.6.9) 5.35ms
+[W 110508 18:47:19 iostream:291] Read error on 7: [Errno 104] Connection reset by peer
+[W 110508 18:47:19 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.26ms
+[I 110508 18:47:22 chatdemo:97] Sending new message to 3 listeners
+[I 110508 18:47:22 web:1243] 200 POST /a/message/updates (111.194.148.15) 3439.05ms
+[I 110508 18:47:22 web:1243] 200 POST /a/message/updates (123.122.114.36) 3418.35ms
+[I 110508 18:47:22 web:1243] 200 POST /a/message/updates (123.103.6.9) 3411.70ms
+[I 110508 18:47:22 web:1243] 200 POST /a/message/new (111.194.148.15) 5.95ms
+[I 110508 18:47:33 web:1243] 200 GET / (111.194.148.15) 1.11ms
+[I 110508 18:47:33 web:1243] 304 GET /static/chat.css?v=26da2 (111.194.148.15) 0.49ms
+[I 110508 18:47:33 web:1243] 304 GET /static/chat.js?v=5d804 (111.194.148.15) 0.45ms
+[I 110508 18:47:46 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:47:46 web:1243] 200 POST /a/message/updates (123.122.114.36) 24196.46ms
+[I 110508 18:47:46 web:1243] 200 POST /a/message/updates (111.194.148.15) 24177.67ms
+[I 110508 18:47:46 web:1243] 200 POST /a/message/updates (123.103.6.9) 24150.84ms
+[I 110508 18:47:46 web:1243] 200 POST /a/message/updates (111.194.148.15) 13068.71ms
+[I 110508 18:47:46 web:1243] 200 POST /a/message/new (123.122.114.36) 6.10ms
+[W 110508 18:47:46 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.25ms
+[I 110508 18:47:49 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:47:49 web:1243] 200 POST /a/message/updates (123.122.114.36) 2638.78ms
+[I 110508 18:47:49 web:1243] 200 POST /a/message/updates (111.194.148.15) 2624.66ms
+[I 110508 18:47:49 web:1243] 200 POST /a/message/updates (111.194.148.15) 2582.12ms
+[I 110508 18:47:49 web:1243] 200 POST /a/message/updates (123.103.6.9) 2300.89ms
+[I 110508 18:47:49 web:1243] 200 POST /a/message/new (111.194.148.15) 3.89ms
+[I 110508 18:47:58 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:47:58 web:1243] 200 POST /a/message/updates (123.103.6.9) 8550.92ms
+[I 110508 18:47:58 web:1243] 200 POST /a/message/updates (111.194.148.15) 8547.80ms
+start on port 41860...
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x290e9e0>}
+45116439
+['__class__', '__delattr__', '__dict__', '__doc__', '__format__', '__getattribute__', '__getstate__', '__hash__', '__init__', '__module__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'allow_all_act_msg', 'city', 'created_at', 'description', 'domain', 'favourites_count', 'follow', 'followers', 'followers_count', 'followers_ids', 'following', 'friends', 'friends_count', 'gender', 'geo_enabled', 'id', 'lists', 'lists_memberships', 'lists_subscriptions', 'location', 'name', 'parse', 'parse_list', 'profile_image_url', 'province', 'screen_name', 'status', 'statuses_count', 'timeline', 'unfollow', 'url', 'verified']
+{'45116439': <douban_oauth.douban_iterm instance at 0x290e9e0>, 1785761782: <weibopy.models.User object at 0x2951890>}
+45116439
+1785761782
+waiters:  [<function wrapper at 0x28e6668>, <function wrapper at 0x2963410>, <function wrapper at 0x29639b0>, <function wrapper at 0x2963848>, <function wrapper at 0x2963de8>]
+waiters:  [<function wrapper at 0x28e6668>, <function wrapper at 0x2963410>, <function wrapper at 0x29639b0>, <function wrapper at 0x2963848>, <function wrapper at 0x2963de8>]
+waiters:  [<function wrapper at 0x28e6668>, <function wrapper at 0x2963410>, <function wrapper at 0x29639b0>, <function wrapper at 0x2963848>, <function wrapper at 0x2963de8>]
+waiters:  [<function wrapper at 0x28e6668>, <function wrapper at 0x2963410>, <function wrapper at 0x29639b0>, <function wrapper at 0x2963848>, <function wrapper at 0x2963de8>]
+waiters:  [<function wrapper at 0x28e6668>, <function wrapper at 0x2963410>, <function wrapper at 0x29639b0>, <function wrapper at 0x2963848>, <function wrapper at 0x2963de8>]
+waiters:  [<function wrapper at 0x2963d70>, <function wrapper at 0x2963578>, <function wrapper at 0x2963c80>]
+waiters:  [<function wrapper at 0x2963d70>, <function wrapper at 0x2963578>, <function wrapper at 0x2963c80>]
+waiters:  [<function wrapper at 0x2963d70>, <function wrapper at 0x2963578>, <function wrapper at 0x2963c80>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x290e9e0>, 1785761782: <weibopy.models.User object at 0x2951890>, '4578503': <douban_oauth.douban_iterm instance at 0x2967fc8>}
+45116439
+1785761782
+4578503
+waiters:  [<function wrapper at 0x2963c08>, <function wrapper at 0x2963398>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b2a8>]
+waiters:  [<function wrapper at 0x2963c08>, <function wrapper at 0x2963398>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b2a8>]
+waiters:  [<function wrapper at 0x2963c08>, <function wrapper at 0x2963398>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b2a8>]
+waiters:  [<function wrapper at 0x2963c08>, <function wrapper at 0x2963398>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b2a8>]
+waiters:  [<function wrapper at 0x2963c80>, <function wrapper at 0x2963cf8>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x2963c80>, <function wrapper at 0x2963cf8>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x2963c80>, <function wrapper at 0x2963cf8>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x2963c80>, <function wrapper at 0x2963cf8>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x2963c08>, <function wrapper at 0x2963e60>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b320>]
+waiters:  [<function wrapper at 0x2963c08>, <function wrapper at 0x2963e60>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b320>]
+waiters:  [<function wrapper at 0x2963c08>, <function wrapper at 0x2963e60>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b320>[I 110508 18:47:58 web:1243] 200 POST /a/message/updates (111.194.148.15) 8541.89ms
+[I 110508 18:47:58 web:1243] 200 POST /a/message/updates (123.122.114.36) 7331.97ms
+[I 110508 18:47:58 web:1243] 200 POST /a/message/new (111.194.148.15) 4.01ms
+[I 110508 18:48:01 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:48:01 web:1243] 200 POST /a/message/updates (111.194.148.15) 2749.58ms
+[I 110508 18:48:01 web:1243] 200 POST /a/message/updates (123.103.6.9) 2746.55ms
+[I 110508 18:48:01 web:1243] 200 POST /a/message/updates (111.194.148.15) 2719.48ms
+[I 110508 18:48:01 web:1243] 200 POST /a/message/updates (123.122.114.36) 1138.61ms
+[I 110508 18:48:01 web:1243] 200 POST /a/message/new (123.103.6.9) 4.82ms
+[I 110508 18:48:11 web:1243] 200 GET / (111.194.148.15) 1.27ms
+[I 110508 18:48:11 web:1243] 304 GET /static/chat.css?v=26da2 (111.194.148.15) 0.45ms
+[I 110508 18:48:11 web:1243] 304 GET /static/chat.js?v=5d804 (111.194.148.15) 0.49ms
+[I 110508 18:48:17 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:48:17 web:1243] 200 POST /a/message/updates (123.103.6.9) 16329.14ms
+[I 110508 18:48:17 web:1243] 200 POST /a/message/updates (111.194.148.15) 16307.55ms
+[I 110508 18:48:17 web:1243] 200 POST /a/message/updates (123.122.114.36) 14529.62ms
+[I 110508 18:48:17 web:1243] 200 POST /a/message/updates (111.194.148.15) 5560.63ms
+[I 110508 18:48:17 web:1243] 200 POST /a/message/new (123.103.6.9) 4.85ms
+[W 110508 18:48:17 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.32ms
+[I 110508 18:48:26 web:1243] 302 GET /wblogin?name=douban (123.114.183.41) 78.24ms
+[I 110508 18:48:28 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:48:28 web:1243] 200 POST /a/message/updates (123.103.6.9) 10822.69ms
+[I 110508 18:48:28 web:1243] 200 POST /a/message/updates (123.122.114.36) 10820.68ms
+[I 110508 18:48:28 web:1243] 200 POST /a/message/updates (111.194.148.15) 10811.53ms
+[I 110508 18:48:28 web:1243] 200 POST /a/message/updates (111.194.148.15) 10791.51ms
+[I 110508 18:48:28 web:1243] 200 POST /a/message/new (111.194.148.15) 3.85ms
+[I 110508 18:48:33 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:48:33 web:1243] 200 POST /a/message/updates (111.194.148.15) 5180.12ms
+[I 110508 18:48:33 web:1243] 200 POST /a/message/updates (123.103.6.9) 5177.75ms
+[I 110508 18:48:33 web:1243] 200 POST /a/message/updates (123.122.114.36) 5175.49ms
+]
+waiters:  [<function wrapper at 0x2963c08>, <function wrapper at 0x2963e60>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b320>]
+waiters:  [<function wrapper at 0x29637d0>, <function wrapper at 0x2963c80>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x29637d0>, <function wrapper at 0x2963c80>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x29637d0>, <function wrapper at 0x2963c80>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x29637d0>, <function wrapper at 0x2963c80>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b230>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x290e9e0>, 1785761782: <weibopy.models.User object at 0x2951890>, '4578503': <douban_oauth.douban_iterm instance at 0x2974a28>}
+45116439
+1785761782
+4578503
+waiters:  [<function wrapper at 0x2963e60>, <function wrapper at 0x2963c08>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b2a8>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x2963e60>, <function wrapper at 0x2963c08>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b2a8>, <function wrapper at 0x296b230>]
+closed.... [{'body': u'\u6211\u61c2\u4e86\u3002\u65e5\uff0c\u7b49\u6709\u7a7a\u770b\u6570\u636e\u5e93\u5427\uff0c\u73b0\u5728\u6728\u6709\u6570\u636e\u5e93\u7684', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="maa565571-b1c2-4299-8169-744c8a951b21"><b><a href="http://www.douban.com/people/KFCpenzi007/"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>\xe6\x88\x91\xe6\x87\x82\xe4\xba\x86\xe3\x80\x82\xe6\x97\xa5\xef\xbc\x8c\xe7\xad\x89\xe6\x9c\x89\xe7\xa9\xba\xe7\x9c\x8b\xe6\x95\xb0\xe6\x8d\xae\xe5\xba\x93\xe5\x90\xa7\xef\xbc\x8c\xe7\x8e\xb0\xe5\x9c\xa8\xe6\x9c\xa8\xe6\x9c\x89\xe6\x95\xb0\xe6\x8d\xae\xe5\xba\x93\xe7\x9a\x84</div>\n', 'id': 'aa565571-b1c2-4299-8169-744c8a951b21'}]
+waiters:  [<function wrapper at 0x2963e60>, <function wrapper at 0x2963c08>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b2a8>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x2963e60>, <function wrapper at 0x2963c08>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b2a8>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x2963e60>, <function wrapper at 0x2963c08>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b2a8>, <function wrapper at 0x296b230>]
+douban
+['__doc__', '__module__', 'access_token_path', 'conn', 'consumer_key', 'consumer_secret', 'oauth_header', 'request_token', 'stepone', 'stepthree', 'steptwo']
+waiters:  [<function wrapper at 0x2963230>, <function wrapper at 0x2963e60>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b320>]
+waiters:  [<function wrapper at 0x2963230>, <function wrapper at 0x2963e60>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b320>]
+waiters:  [<function wrapper at 0x2963230>, <function wrapper at 0x2963e60>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b320>]
+waiters:  [<function wrapper at 0x2963230>, <function wrapper at 0x2963e60>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b320>]
+waiters:  [<function wrapper at 0x2963c80>, <function wrapper at 0x2963e60>, <function wrapper at 0x296b488>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x2963c80>, <function wrapper at 0x2963e60>, <function wrapper at 0x296b488>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x2963c80>, <function wrapper at 0x2963e60>, <function wrapper at 0x296b488>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x2963c80>, <function wrapper at 0x2963e60>, <function wrapper at 0x296b488>, <function wra[I 110508 18:48:33 web:1243] 200 POST /a/message/updates (111.194.148.15) 5138.05ms
+[I 110508 18:48:33 web:1243] 200 POST /a/message/new (111.194.148.15) 8.44ms
+[I 110508 18:48:35 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:48:35 web:1243] 200 POST /a/message/updates (123.122.114.36) 2302.43ms
+[I 110508 18:48:35 web:1243] 200 POST /a/message/updates (111.194.148.15) 2304.42ms
+[I 110508 18:48:35 web:1243] 200 POST /a/message/updates (111.194.148.15) 2245.44ms
+[I 110508 18:48:35 web:1243] 200 POST /a/message/updates (123.103.6.9) 2012.97ms
+[I 110508 18:48:35 web:1243] 200 POST /a/message/new (123.122.114.36) 7.61ms
+[I 110508 18:48:40 web:1243] 200 GET / (111.194.148.15) 2.02ms
+[I 110508 18:48:40 web:1243] 304 GET /static/chat.css?v=26da2 (111.194.148.15) 0.49ms
+[I 110508 18:48:40 web:1243] 304 GET /static/chat.js?v=5d804 (111.194.148.15) 0.49ms
+[I 110508 18:48:56 web:1243] 302 GET /wblogin_check?oauth_token=37ac30a0b9037767a70491e22b0a6635 (123.114.183.41) 101.18ms
+[I 110508 18:48:57 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:48:57 web:1243] 200 POST /a/message/updates (123.103.6.9) 21175.91ms
+[I 110508 18:48:57 web:1243] 200 POST /a/message/updates (123.122.114.36) 21166.37ms
+[I 110508 18:48:57 web:1243] 200 POST /a/message/updates (111.194.148.15) 21162.48ms
+[I 110508 18:48:57 web:1243] 200 POST /a/message/updates (111.194.148.15) 21103.83ms
+[I 110508 18:48:57 web:1243] 200 POST /a/message/updates (111.194.148.15) 15874.80ms
+[I 110508 18:48:57 web:1243] 200 POST /a/message/new (123.103.6.9) 4.89ms
+[I 110508 18:48:57 web:1243] 200 GET / (123.114.183.41) 1.44ms
+[I 110508 18:48:57 web:1243] 200 GET /static/chat.js?v=5d804 (123.114.183.41) 0.56ms
+[I 110508 18:49:12 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:49:12 web:1243] 200 POST /a/message/updates (111.194.148.15) 15291.04ms
+[I 110508 18:49:12 web:1243] 200 POST /a/message/updates (123.103.6.9) 15250.73ms
+[I 110508 18:49:12 web:1243] 200 POST /a/message/updates (111.194.148.15) 14218.12ms
+[I 110508 18:49:12 web:1243] 200 POST /a/message/updates (123.122.114.36) 13785.75ms
+[I 110508 18:49:12 web:1243] 200 POST /a/message/updates (123.114.183.41) 9264.39ms
+[I 110508 18:49:12 web:1243] 200 POST /a/message/new (111.194.148.15) 4.34ms
+[I 110508 18:49:24 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:49:24 web:1243] 200 POST /a/message/updates (111.194.148.15) 11998.10ms
+pper at 0x296b230>]
+waiters:  [<function wrapper at 0x2963230>, <function wrapper at 0x2963cf8>, <function wrapper at 0x296b2a8>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x2963230>, <function wrapper at 0x2963cf8>, <function wrapper at 0x296b2a8>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x2963230>, <function wrapper at 0x2963cf8>, <function wrapper at 0x296b2a8>, <function wrapper at 0x296b230>]
+waiters:  [<function wrapper at 0x2963230>, <function wrapper at 0x2963cf8>, <function wrapper at 0x296b2a8>, <function wrapper at 0x296b230>]
+['__class__', '__delattr__', '__dict__', '__doc__', '__format__', '__getattribute__', '__getstate__', '__hash__', '__init__', '__module__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'allow_all_act_msg', 'city', 'created_at', 'description', 'domain', 'favourites_count', 'follow', 'followers', 'followers_count', 'followers_ids', 'following', 'friends', 'friends_count', 'gender', 'geo_enabled', 'id', 'lists', 'lists_memberships', 'lists_subscriptions', 'location', 'name', 'parse', 'parse_list', 'profile_image_url', 'province', 'screen_name', 'status', 'statuses_count', 'timeline', 'unfollow', 'url', 'verified']
+{'45116439': <douban_oauth.douban_iterm instance at 0x290e9e0>, 1785761782: <weibopy.models.User object at 0x29a6850>, '4578503': <douban_oauth.douban_iterm instance at 0x2974a28>}
+45116439
+1785761782
+4578503
+{'oauth_token_secret': '8f9c4ff2cf3a5932', 'oauth_token': '37ac30a0b9037767a70491e22b0a6635'}
+{'oauth_token_secret': 'c75f3a1e7c14f5e0', 'douban_user_id': '1805011', 'oauth_token': '38465c698161b4cfa8d3153c84251e6d'}
+<douban_oauth.douban_iterm instance at 0x296d758>
+正直青年西果子
+waiters:  [<function wrapper at 0x2963e60>, <function wrapper at 0x2963ed8>, <function wrapper at 0x2963cf8>, <function wrapper at 0x296b230>, <function wrapper at 0x296b410>]
+waiters:  [<function wrapper at 0x2963e60>, <function wrapper at 0x2963ed8>, <function wrapper at 0x2963cf8>, <function wrapper at 0x296b230>, <function wrapper at 0x296b410>]
+waiters:  [<function wrapper at 0x2963e60>, <function wrapper at 0x2963ed8>, <function wrapper at 0x2963cf8>, <function wrapper at 0x296b230>, <function wrapper at 0x296b410>]
+waiters:  [<function wrapper at 0x2963e60>, <function wrapper at 0x2963ed8>, <function wrapper at 0x2963cf8>, <function wrapper at 0x296b230>, <function wrapper at 0x296b410>]
+waiters:  [<function wrapper at 0x2963e60>, <function wrapper at 0x2963ed8>, <function wrapper at 0x2963cf8>, <function wrapper at 0x296b230>, <function wrapper at 0x296b410>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'1805011': <douban_oauth.douban_iterm instance at 0x29aedd0>, '45116439': <douban_oauth.douban_iterm instance at 0x290e9e0>, 1785761782: <weibopy.models.User object at 0x29a6850>, '4578503': <douban_oauth.douban_iterm instance at 0x2974a28>}
+1805011
+45116439
+1785761782
+4578503
+waiters:  [<function wrapper at 0x2963d70>, <function wrapper at 0x2963cf8>, <function wrapper at 0x29637d0>, <function wrapper at 0x296b320>, <function wrapper at 0x296b2a8>]
+waiters:  [<function wrapper at 0x2963d70>, <function wrapper at 0x2963cf8>, <function wrapper at 0x29637d0>, <function wrapper at 0x296b320>, <function wrapper at 0x296b2a8>]
+waiters:  [<function wrapper at 0x2963d70>, <function wrapper at 0x2963cf8>, <function wrapper at 0x29637d0>, <function wrapper at 0x296b320>, <function wrapper at 0x296b2a8>]
+waiters:  [<function wrapper at 0x2963d70>, <function wrapper at 0x2963cf8>, <function wrapper at 0x29637d0>, <function wrapper at 0x296b320>, <function wrapper at 0x296b2a8>]
+waiters:  [<function wrapper at 0x2963d70>, <function wrapper at 0x2963cf8>, <function wrapper at 0x29637d0>, <function wrapper at 0x296b320>, <function wrapper at 0x296b2a8>]
+waiters:  [<function wrapper at 0x29635f0>, <function wrapper at 0x2963230>, <function wrapper at 0x29637d0>, <function wrapper at 0x296b668>]
+waiters:  [<function wrapper at 0x296[I 110508 18:49:24 web:1243] 200 POST /a/message/updates (111.194.148.15) 11995.85ms
+[I 110508 18:49:24 web:1243] 200 POST /a/message/updates (123.122.114.36) 10867.72ms
+[I 110508 18:49:24 web:1243] 200 POST /a/message/updates (123.103.6.9) 10658.25ms
+[I 110508 18:49:24 web:1243] 200 POST /a/message/new (123.103.6.9) 4.77ms
+[I 110508 18:49:35 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:49:35 web:1243] 200 POST /a/message/updates (123.103.6.9) 11135.71ms
+[I 110508 18:49:35 web:1243] 200 POST /a/message/updates (111.194.148.15) 11130.03ms
+[I 110508 18:49:35 web:1243] 200 POST /a/message/updates (111.194.148.15) 11127.89ms
+[I 110508 18:49:35 web:1243] 200 POST /a/message/updates (123.122.114.36) 10066.76ms
+[I 110508 18:49:35 web:1243] 200 POST /a/message/new (111.194.148.15) 3.81ms
+[W 110508 18:49:56 iostream:291] Read error on 15: [Errno 104] Connection reset by peer
+[W 110508 18:49:56 iostream:291] Read error on 16: [Errno 104] Connection reset by peer
+[I 110508 18:49:59 web:1243] 200 GET / (111.194.148.15) 1.55ms
+[I 110508 18:49:59 web:1243] 304 GET /static/chat.css?v=26da2 (111.194.148.15) 0.46ms
+[I 110508 18:49:59 web:1243] 304 GET /static/chat.js?v=5d804 (111.194.148.15) 0.38ms
+[I 110508 18:50:11 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:50:11 web:1243] 200 POST /a/message/updates (123.103.6.9) 34082.38ms
+[I 110508 18:50:11 web:1243] 200 POST /a/message/updates (123.122.114.36) 33686.43ms
+[I 110508 18:50:11 web:1243] 200 POST /a/message/updates (111.194.148.15) 12076.64ms
+[I 110508 18:50:11 web:1243] 200 POST /a/message/new (111.194.148.15) 3.73ms
+[W 110508 18:50:11 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.31ms
+[I 110508 18:50:16 web:1243] 200 GET / (111.194.148.15) 1.58ms
+[I 110508 18:50:16 web:1243] 304 GET /static/chat.css?v=26da2 (111.194.148.15) 0.49ms
+[I 110508 18:50:16 web:1243] 304 GET /static/chat.js?v=5d804 (111.194.148.15) 0.49ms
+[W 110508 18:50:16 iostream:291] Read error on 13: [Errno 104] Connection reset by peer
+[W 110508 18:50:20 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.31ms
+[I 110508 18:50:21 web:1243] 304 GET / (111.194.148.15) 1.56ms
+[I 110508 18:50:21 web:1243] 304 GET /static/chat.css?v=26da2 (111.194.148.15) 0.43ms
+[I 110508 18:50:21 web:1243] 304 GET /static/chat.js?v=5d804 (111.194.148.15) 0.38ms
+[I 110508 18:50:53 web:1243] 200 GET / (116.52.16.47) 0.52ms
+[I 110508 18:50:53 web:1243] 200 GET /static/chat.css?v=26da2 (116.52.16.47) 0.47ms
+[W 110508 18:50:54 web:1243] 404 GET /favicon.ico (116.52.16.47) 0.31ms
+[W 110508 18:51:12 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.31ms
+35f0>, <function wrapper at 0x2963230>, <function wrapper at 0x29637d0>, <function wrapper at 0x296b668>]
+waiters:  [<function wrapper at 0x29635f0>, <function wrapper at 0x2963230>, <function wrapper at 0x29637d0>, <function wrapper at 0x296b668>]
+waiters:  [<function wrapper at 0x29635f0>, <function wrapper at 0x2963230>, <function wrapper at 0x29637d0>, <function wrapper at 0x296b668>]
+waiters:  [<function wrapper at 0x2963e60>, <function wrapper at 0x2963d70>, <function wrapper at 0x2963230>, <function wrapper at 0x296b578>]
+waiters:  [<function wrapper at 0x2963e60>, <function wrapper at 0x2963d70>, <function wrapper at 0x2963230>, <function wrapper at 0x296b578>]
+waiters:  [<function wrapper at 0x2963e60>, <function wrapper at 0x2963d70>, <function wrapper at 0x2963230>, <function wrapper at 0x296b578>]
+waiters:  [<function wrapper at 0x2963e60>, <function wrapper at 0x2963d70>, <function wrapper at 0x2963230>, <function wrapper at 0x296b578>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'1805011': <douban_oauth.douban_iterm instance at 0x29aedd0>, '45116439': <douban_oauth.douban_iterm instance at 0x290e9e0>, 1785761782: <weibopy.models.User object at 0x29a6850>, '4578503': <douban_oauth.douban_iterm instance at 0x296d2d8>}
+1805011
+45116439
+1785761782
+4578503
+waiters:  [<function wrapper at 0x29635f0>, <function wrapper at 0x29630c8>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b2a8>, <function wrapper at 0x296b6e0>]
+closed.... [{'body': u'- -\u51fa\u73b0\u4e86\u6b63\u65e5!', 'from': 'basket\xe2\x84\xa2', 'sina_url': 'http://www.douban.com/people/basket/', 'image': 'http://img3.douban.com/icon/u4578503-154.jpg', 'html': '\n<div class="message" id="m400b607a-39b4-45d2-9aee-1b521e5577b1"><b><a href="http://www.douban.com/people/basket/"><img src="http://img3.douban.com/icon/u4578503-154.jpg" height=40 width=40></img></a>basket\xe2\x84\xa2: </b>- -\xe5\x87\xba\xe7\x8e\xb0\xe4\xba\x86\xe6\xad\xa3\xe6\x97\xa5!</div>\n', 'id': '400b607a-39b4-45d2-9aee-1b521e5577b1'}]
+waiters:  [<function wrapper at 0x29635f0>, <function wrapper at 0x29630c8>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b2a8>, <function wrapper at 0x296b6e0>]
+closed.... [{'body': u'- -\u51fa\u73b0\u4e86\u6b63\u65e5!', 'from': 'basket\xe2\x84\xa2', 'sina_url': 'http://www.douban.com/people/basket/', 'image': 'http://img3.douban.com/icon/u4578503-154.jpg', 'html': '\n<div class="message" id="m400b607a-39b4-45d2-9aee-1b521e5577b1"><b><a href="http://www.douban.com/people/basket/"><img src="http://img3.douban.com/icon/u4578503-154.jpg" height=40 width=40></img></a>basket\xe2\x84\xa2: </b>- -\xe5\x87\xba\xe7\x8e\xb0\xe4\xba\x86\xe6\xad\xa3\xe6\x97\xa5!</div>\n', 'id': '400b607a-39b4-45d2-9aee-1b521e5577b1'}]
+waiters:  [<function wrapper at 0x29635f0>, <function wrapper at 0x29630c8>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b2a8>, <function wrapper at 0x296b6e0>]
+waiters:  [<function wrapper at 0x29635f0>, <function wrapper at 0x29630c8>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b2a8>, <function wrapper at 0x296b6e0>]
+waiters:  [<function wrapper at 0x29635f0>, <function wrapper at 0x29630c8>, <function wrapper at 0x2963d70>, <function wrapper at 0x296b2a8>, <function wrapper at 0x296b6e0>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'1805011': <douban_oauth.douban_iterm instance at 0x29aedd0>, '45116439': <douban_oauth.douban_iterm instance at 0x290e9e0>, 1785761782: <weibopy.models.User object at 0x29a6850>, '4578503': <douban_oauth.douban_iterm instance at 0x29595f0>}
+1805011
+45116439
+1785761782
+4578503
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'1805011': <douban_oauth.douban_iterm instance at 0x29aedd0>, '45116439': <douban_oauth.douban_iterm instance at 0x290e9e0>, 1785761782: <weibopy.models.User object at 0x29a6850>, '4578503': <douban_oauth.douban_iterm instance at 0x2987a70>}
+1805011
+45116439
+1785761782
+4578503
+['__doc__', '__init__', '__module__', 'id', 'profile_[I 110508 18:51:12 web:1243] 304 GET / (111.194.148.15) 1.58ms
+[I 110508 18:51:13 web:1243] 304 GET /static/chat.css?v=26da2 (111.194.148.15) 0.50ms
+[I 110508 18:51:13 web:1243] 304 GET /static/chat.js?v=5d804 (111.194.148.15) 0.48ms
+[I 110508 18:51:57 web:1243] 200 GET / (116.52.16.47) 6.63ms
+[W 110508 18:51:57 web:1243] 404 GET /favicon.ico (116.52.16.47) 0.33ms
+[W 110508 18:51:58 iostream:291] Read error on 8: [Errno 104] Connection reset by peer
+[I 110508 18:52:18 web:1243] 200 GET / (123.103.6.9) 6.56ms
+[I 110508 18:52:22 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:52:22 web:1243] 200 POST /a/message/updates (123.103.6.9) 24584.32ms
+[I 110508 18:52:22 web:1243] 200 POST /a/message/updates (111.194.148.15) 23827.07ms
+[I 110508 18:52:22 web:1243] 200 POST /a/message/updates (123.122.114.36) 23369.76ms
+[I 110508 18:52:22 web:1243] 200 POST /a/message/updates (123.103.6.9) 3102.61ms
+[I 110508 18:52:22 web:1243] 200 POST /a/message/new (123.103.6.9) 3.42ms
+[I 110508 18:52:27 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:52:27 web:1243] 200 POST /a/message/updates (111.194.148.15) 4730.49ms
+[I 110508 18:52:27 web:1243] 200 POST /a/message/updates (123.103.6.9) 4722.98ms
+[I 110508 18:52:27 web:1243] 200 POST /a/message/updates (123.103.6.9) 3251.78ms
+[I 110508 18:52:27 web:1243] 200 POST /a/message/updates (123.122.114.36) 3190.16ms
+[I 110508 18:52:27 web:1243] 200 POST /a/message/new (111.194.148.15) 4.10ms
+[I 110508 18:52:57 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:52:57 web:1243] 200 POST /a/message/updates (111.194.148.15) 30218.99ms
+[I 110508 18:52:57 web:1243] 200 POST /a/message/updates (123.103.6.9) 30209.03ms
+[I 110508 18:52:57 web:1243] 200 POST /a/message/updates (123.103.6.9) 28519.69ms
+[I 110508 18:52:57 web:1243] 200 POST /a/message/updates (123.122.114.36) 28463.29ms
+[I 110508 18:52:57 web:1243] 200 POST /a/message/new (123.103.6.9) 3.14ms
+[I 110508 18:53:00 web:1243] 304 GET /wblogout (123.103.6.9) 12.05ms
+[I 110508 18:53:01 chatdemo:97] Sending new message to 4 listeners
+[I 110508 18:53:01 web:1243] 200 POST /a/message/updates (123.122.114.36) 4530.65ms
+[I 110508 18:53:01 web:1243] 200 POST /a/message/updates (111.194.148.15) 3327.57ms
+[I 110508 18:53:01 web:1243] 200 POST /a/message/updates (123.103.6.9) 3073.68ms
+[I 110508 18:53:01 web:1243] 200 POST /a/message/new (123.122.114.36) 5.51ms
+[I 110508 18:53:09 web:1243] 200 GET / (123.103.6.9) 1.29ms
+[I 110508 18:53:22 chatdemo:97] Sending new message to 4 listeners
+start on port 41860...
+['__class__', '__delattr__', '__dict__', '__doc__', '__format__', '__getattribute__', '__getstate__', '__hash__', '__init__', '__module__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'allow_all_act_msg', 'city', 'created_at', 'description', 'domain', 'favourites_count', 'follow', 'followers', 'followers_count', 'followers_ids', 'following', 'friends', 'friends_count', 'gender', 'geo_enabled', 'id', 'lists', 'lists_memberships', 'lists_subscriptions', 'location', 'name', 'parse', 'parse_list', 'profile_image_url', 'province', 'screen_name', 'status', 'statuses_count', 'timeline', 'unfollow', 'url', 'verified']
+{1578028253: <weibopy.models.User object at 0x2a1b550>}
+1578028253
+waiters:  [<function wrapper at 0x2a02668>, <function wrapper at 0x2a02aa0>, <function wrapper at 0x2a02c08>, <function wrapper at 0x2a1a578>]
+waiters:  [<function wrapper at 0x2a02668>, <function wrapper at 0x2a02aa0>, <function wrapper at 0x2a02c08>, <function wrapper at 0x2a1a578>]
+waiters:  [<function wrapper at 0x2a02668>, <function wrapper at 0x2a02aa0>, <function wrapper at 0x2a02c08>, <function wrapper at 0x2a1a578>]
+waiters:  [<function wrapper at 0x2a02668>, <function wrapper at 0x2a02aa0>, <function wrapper at 0x2a02c08>, <function wrapper at 0x2a1a578>]
+waiters:  [<function wrapper at 0x2a02b90>, <function wrapper at 0x2a02c08>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a6e0>]
+waiters:  [<function wrapper at 0x2a02b90>, <function wrapper at 0x2a02c08>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a6e0>]
+waiters:  [<function wrapper at 0x2a02b90>, <function wrapper at 0x2a02c08>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a6e0>]
+waiters:  [<function wrapper at 0x2a02b90>, <function wrapper at 0x2a02c08>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a6e0>]
+waiters:  [<function wrapper at 0x2a02c08>, <function wrapper at 0x2a1a668>, <function wrapper at 0x2a1a758>, <function wrapper at 0x2a1a6e0>]
+waiters:  [<function wrapper at 0x2a02c08>, <function wrapper at 0x2a1a668>, <function wrapper at 0x2a1a758>, <function wrapper at 0x2a1a6e0>]
+waiters:  [<function wrapper at 0x2a02c08>, <function wrapper at 0x2a1a668>, <function wrapper at 0x2a1a758>, <function wrapper at 0x2a1a6e0>]
+waiters:  [<function wrapper at 0x2a02c08>, <function wrapper at 0x2a1a668>, <function wrapper at 0x2a1a758>, <function wrapper at 0x2a1a6e0>]
+session.id 1578028253
+waiters:  [<function wrapper at 0x2a02aa0>, <function wrapper at 0x2a1a500>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a8c0>]
+waiters:  [<function wrapper at 0x2a02aa0>, <function wrapper at 0x2a1a500>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a8c0>]
+closed.... [{'body': u'\u554a', 'from': u'\u6b66\u6c49\u8fa3\u9e2d\u8116\u5b50', 'sina_url': '', 'image': 'http://tp2.sinaimg.cn/1688545373/50/5597149242/0', 'html': '\n<div class="message" id="m9b4800d6-1307-4816-b5f9-d36c01709f04"><b><a href="" target="_blank"><img src="http://tp2.sinaimg.cn/1688545373/50/5597149242/0" height=40 width=40></img></a>\xe6\xad\xa6\xe6\xb1\x89\xe8\xbe\xa3\xe9\xb8\xad\xe8\x84\x96\xe5\xad\x90: </b>\xe5\x95\x8a</div>\n', 'id': '9b4800d6-1307-4816-b5f9-d36c01709f04'}]
+waiters:  [<function wrapper at 0x2a02aa0>, <function wrapper at 0x2a1a500>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a8c0>]
+waiters:  [<function wrapper at 0x2a02aa0>, <function wrapper at 0x2a1a500>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a8c0>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2ab9b90>}
+45116439
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a410>, <function wrapper at 0x2a1a8c0>, <function wrapper at 0x2a1ad70>]
+closed.... [{'body': u'\u9ebb\u8fa3\u6bd4\u3002\u3002\u4e3a\u4ec0\u4e48\u6211\u6c38\u8fdc\u53ea\u663e\u793a\u6211\u4e00\u4e2a\uff01\uff01', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina[I 110508 18:53:22 web:1243] 200 POST /a/message/updates (111.194.148.15) 18508.38ms
+[I 110508 18:53:22 web:1243] 200 POST /a/message/updates (123.103.6.9) 18243.57ms
+[I 110508 18:53:22 web:1243] 200 POST /a/message/updates (123.103.6.9) 12378.51ms
+[I 110508 18:53:22 web:1243] 200 POST /a/message/new (123.103.6.9) 4.76ms
+[W 110508 18:53:22 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.31ms
+[I 110508 18:53:23 chatdemo:97] Sending new message to 1 listeners
+[I 110508 18:53:23 web:1243] 200 POST /a/message/updates (123.103.6.9) 1061.72ms
+[I 110508 18:53:23 web:1243] 200 POST /a/message/new (123.103.6.9) 3.95ms
+[I 110508 18:53:23 web:1243] 200 POST /a/message/updates (111.194.148.15) 2.38ms
+[I 110508 18:53:23 web:1243] 200 POST /a/message/updates (123.103.6.9) 3.68ms
+[W 110508 18:53:39 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.32ms
+[I 110508 18:53:39 web:1243] 200 GET / (111.194.148.15) 1.26ms
+[I 110508 18:53:40 web:1243] 304 GET /static/chat.css?v=26da2 (111.194.148.15) 4.52ms
+[I 110508 18:53:40 web:1243] 304 GET /static/chat.js?v=5d804 (111.194.148.15) 0.50ms
+[I 110508 18:53:40 chatdemo:97] Sending new message to 5 listeners
+[I 110508 18:53:40 web:1243] 200 POST /a/message/updates (123.103.6.9) 17167.68ms
+[I 110508 18:53:40 web:1243] 200 POST /a/message/updates (123.103.6.9) 14587.13ms
+[I 110508 18:53:40 web:1243] 200 POST /a/message/updates (111.194.148.15) 287.99ms
+[I 110508 18:53:40 web:1243] 200 POST /a/message/new (123.103.6.9) 4.91ms
+[W 110508 18:53:40 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.30ms
+[I 110508 18:53:46 chatdemo:97] Sending new message to 3 listeners
+_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="m7315b77b-5d7d-484b-8677-aa80b6d53c0c"><b><a href="http://www.douban.com/people/KFCpenzi007/" target="_blank"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>\xe9\xba\xbb\xe8\xbe\xa3\xe6\xaf\x94\xe3\x80\x82\xe3\x80\x82\xe4\xb8\xba\xe4\xbb\x80\xe4\xb9\x88\xe6\x88\x91\xe6\xb0\xb8\xe8\xbf\x9c\xe5\x8f\xaa\xe6\x98\xbe\xe7\xa4\xba\xe6\x88\x91\xe4\xb8\x80\xe4\xb8\xaa\xef\xbc\x81\xef\xbc\x81</div>\n', 'id': '7315b77b-5d7d-484b-8677-aa80b6d53c0c'}]
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a410>, <function wrapper at 0x2a1a8c0>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a410>, <function wrapper at 0x2a1a8c0>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a410>, <function wrapper at 0x2a1a8c0>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2a1a668>]
+waiters:  []
+waiters:  [<function wrapper at 0x2a1a848>, <function wrapper at 0x2a1ad70>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2ab9b90>, '4578503': <douban_oauth.douban_iterm instance at 0x2ab9440>}
+45116439
+4578503
+waiters:  [<function wrapper at 0x2a1a848>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2a1ac08>, <function wrapper at 0x2acd0c8>, <function wrapper at 0x2acd320>]
+closed.... [{'body': u'\u4e3a\u4ec0\u4e48\u3002\u6211\u7684\u5f53\u524d\u5728\u7ebf\u770b\u4e0d\u5230\u4e43\u4eec\uff01\uff01', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="mf2ae8d83-3f42-4a90-8646-e34e6bb32102"><b><a href="http://www.douban.com/people/KFCpenzi007/" target="_blank"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>\xe4\xb8\xba\xe4\xbb\x80\xe4\xb9\x88\xe3\x80\x82\xe6\x88\x91\xe7\x9a\x84\xe5\xbd\x93\xe5\x89\x8d\xe5\x9c\xa8\xe7\xba\xbf\xe7\x9c\x8b\xe4\xb8\x8d\xe5\x88\xb0\xe4\xb9\x83\xe4\xbb\xac\xef\xbc\x81\xef\xbc\x81</div>\n', 'id': 'f2ae8d83-3f42-4a90-8646-e34e6bb32102'}]
+waiters:  [<function wrapper at 0x2a1a848>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2a1ac08>, <function wrapper at 0x2acd0c8>, <function wrapper at 0x2acd320>]
+waiters:  [<function wrapper at 0x2a1a848>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2a1ac08>, <function wrapper at 0x2acd0c8>, <function wrapper at 0x2acd320>]
+waiters:  [<function wrapper at 0x2a1a848>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2a1ac08>, <function wrapper at 0x2acd0c8>, <function wrapper at 0x2acd320>]
+closed.... [{'body': u'\u4e3a\u4ec0\u4e48\u3002\u6211\u7684\u5f53\u524d\u5728\u7ebf\u770b\u4e0d\u5230\u4e43\u4eec\uff01\uff01', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="mf2ae8d83-3f42-4a90-8646-e34e6bb32102"><b><a href="http://www.douban.com/people/KFCpenzi007/" target="_blank"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>\xe4\xb8\xba\xe4\xbb\x80\xe4\xb9\x88\xe3\x80\x82\xe6\x88\x91\xe7\x9a\x84\xe5\xbd\x93\xe5\x89\x8d\xe5\x9c\xa8\xe7\xba\xbf\xe7\x9c\x8b\xe4\xb8\x8d\xe5\x88\xb0\xe4\xb9\x83\xe4\xbb\xac\xef\xbc\x81\xef\xbc\x81</div>\n', 'id': 'f2ae8d83-3f42-4a90-8646-e34e6bb32102'}]
+waiters:  [<function wrapper at 0x2a1a848>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2a1ac08>, <function wrapper at 0x2acd0c8>, <function wrapper at 0x2acd320>]
+waiters:  [<function wrapper at 0x2a1ad70>, <function wrapper at 0x2acd230>, <function wrapper at 0x2acd1b8>[I 110508 18:53:46 web:1243] 200 POST /a/message/updates (111.194.148.15) 5429.20ms
+[I 110508 18:53:46 web:1243] 200 POST /a/message/updates (123.103.6.9) 5401.37ms
+[I 110508 18:53:46 web:1243] 200 POST /a/message/updates (123.103.6.9) 4056.17ms
+[I 110508 18:53:46 web:1243] 200 POST /a/message/new (111.194.148.15) 3.68ms
+[I 110508 18:53:49 web:1243] 200 GET / (123.103.6.9) 1.43ms
+[I 110508 18:53:49 web:1243] 304 GET /static/chat.css?v=26da2 (123.103.6.9) 0.48ms
+[I 110508 18:53:49 web:1243] 304 GET /static/chat.js?v=5d804 (123.103.6.9) 0.49ms
+[I 110508 18:53:49 chatdemo:97] Sending new message to 3 listeners
+[I 110508 18:53:49 web:1243] 200 POST /a/message/updates (111.194.148.15) 3660.18ms
+[I 110508 18:53:49 web:1243] 200 POST /a/message/updates (123.103.6.9) 1773.47ms
+[I 110508 18:53:49 web:1243] 200 POST /a/message/new (111.194.148.15) 3.33ms
+[I 110508 18:53:54 chatdemo:97] Sending new message to 3 listeners
+[I 110508 18:53:54 web:1243] 200 POST /a/message/updates (111.194.148.15) 5151.24ms
+[I 110508 18:53:54 web:1243] 200 POST /a/message/updates (123.103.6.9) 4858.60ms
+[I 110508 18:53:54 web:1243] 200 POST /a/message/updates (123.103.6.9) 3969.66ms
+[I 110508 18:53:54 web:1243] 200 POST /a/message/new (111.194.148.15) 3.59ms
+[W 110508 18:53:54 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.32ms
+[I 110508 18:53:56 chatdemo:97] Sending new message to 2 listeners
+[I 110508 18:53:56 web:1243] 200 POST /a/message/updates (111.194.148.15) 999.16ms
+[I 110508 18:53:56 web:1243] 200 POST /a/message/updates (123.103.6.9) 979.42ms
+[I 110508 18:53:56 web:1243] 200 POST /a/message/new (123.103.6.9) 4.19ms
+[I 110508 18:53:57 web:1243] 200 POST /a/message/updates (123.103.6.9) 3.22ms
+[I 110508 18:54:00 chatdemo:97] Sending new message to 3 listeners
+[I 110508 18:54:00 web:1243] 200 POST /a/message/updates (111.194.148.15) 4313.09ms
+[I 110508 18:54:00 web:1243] 200 POST /a/message/updates (123.103.6.9) 4291.04ms
+[I 110508 18:54:00 web:1243] 200 POST /a/message/updates (123.103.6.9) 1385.39ms
+[I 110508 18:54:00 web:1243] 200 POST /a/message/new (111.194.148.15) 3.73ms
+[I 110508 18:54:00 chatdemo:97] Sending new message to 2 listeners
+[I 110508 18:54:00 web:1243] 200 POST /a/message/updates (111.194.148.15) 523.93ms
+[I 110508 18:54:00 web:1243] 200 POST /a/message/updates (123.103.6.9) 465.80ms
+[I 110508 18:54:00 web:1243] 200 POST /a/message/new (123.103.6.9) 4.19ms
+[I 110508 18:54:02 web:1243] 200 POST /a/message/updates (123.103.6.9) 3.12ms
+[I 110508 18:54:08 chatdemo:97] Sending new message to 3 listeners
+[I 110508 18:54:08 web:1243] 200 POST /a/message/updates (111.194.148.15) 7594.05ms
+[I 110508 18:54:08 web:1243] 200 POST /a/message/updates (123.103.6.9) 7552.05ms
+[I 110508 18:54:08 web:1243] 200 POST /a/message/updates (123.103.6.9) 4588.35ms
+[I 110508 18:54:08 web:1243] 200 POST /a/message/new (123.103.6.9) 4.45ms
+[I 110508 18:54:42 chatdemo:97] Sending new message to 3 listeners
+[I 110508 18:54:42 web:1243] 200 POST /a/message/updates (111.194.148.15) 34289.10ms
+[I 110508 18:54:42 web:1243] 200 POST /a/message/updates (123.103.6.9) 34260.33ms
+[I 110508 18:54:42 web:1243] 200 POST /a/message/updates (123.103.6.9) 32929.16ms
+[I 110508 18:54:42 web:1243] 200 POST /a/message/new (123.103.6.9) 4.57ms
+[I 110508 18:55:04 chatdemo:97] Sending new message to 3 listeners
+[I 110508 18:55:04 web:1243] 200 POST /a/message/updates (123.103.6.9) 21201.49ms
+[I 110508 18:55:04 web:1243] 200 POST /a/message/updates (123.103.6.9) 20484.11ms
+[I 110508 18:55:04 web:1243] 200 POST /a/message/updates (111.194.148.15) 19861.91ms
+[I 110508 18:55:04 web:1243] 200 POST /a/message/new (123.103.6.9) 4.47ms
+[I 110508 18:55:06 chatdemo:97] Sending new message to 3 listeners
+[I 110508 18:55:06 web:1243] 200 POST /a/message/updates (123.103.6.9) 1722.25ms
+[I 110508 18:55:06 web:1243] 200 POST /a/message/updates (111.194.148.15) 783.02ms
+[I 110508 18:55:06 web:1243] 200 POST /a/message/updates (123.103.6.9) 267.69ms
+[I 110508 18:55:06 web:1243] 200 POST /a/message/new (123.103.6.9) 4.34ms
+[I 110508 18:55:16 chatdemo:97] Sending new message to 3 listeners
+[I 110508 18:55:16 web:1243] 200 POST /a/message/updates (111.194.148.15) 10557.15ms
+[I 110508 18:55:17 web:1243] 200 POST /a/message/updates (123.103.6.9) 10541.54ms
+[I 110508 18:55:17 web:1243] 200 POST /a/message/updates (123.103.6.9) 8892.16ms
+[I 110508 18:55:17 web:1243] 200 POST /a/message/new (111.194.148.15) 3.63ms
+[I 110508 18:55:18 chatdemo:97] Sending new message to 3 listeners
+]
+waiters:  [<function wrapper at 0x2a1ad70>, <function wrapper at 0x2acd230>, <function wrapper at 0x2acd1b8>]
+waiters:  [<function wrapper at 0x2a1ad70>, <function wrapper at 0x2acd230>, <function wrapper at 0x2acd1b8>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2ae0d88>, '4578503': <douban_oauth.douban_iterm instance at 0x2ab9440>}
+45116439
+4578503
+waiters:  [<function wrapper at 0x2a1acf8>, <function wrapper at 0x2acd140>, <function wrapper at 0x2acd1b8>]
+waiters:  [<function wrapper at 0x2a1acf8>, <function wrapper at 0x2acd140>, <function wrapper at 0x2acd1b8>]
+closed.... [{'body': u'\u771f\u8c1b', 'from': 'basket\xe2\x84\xa2', 'sina_url': 'http://www.douban.com/people/basket/', 'image': 'http://img3.douban.com/icon/u4578503-154.jpg', 'html': '\n<div class="message" id="m2718c31d-693a-4941-bca3-9bbe02894659"><b><a href="http://www.douban.com/people/basket/" target="_blank"><img src="http://img3.douban.com/icon/u4578503-154.jpg" height=40 width=40></img></a>basket\xe2\x84\xa2: </b>\xe7\x9c\x9f\xe8\xb0\x9b</div>\n', 'id': '2718c31d-693a-4941-bca3-9bbe02894659'}]
+waiters:  [<function wrapper at 0x2a1acf8>, <function wrapper at 0x2acd140>, <function wrapper at 0x2acd1b8>]
+waiters:  [<function wrapper at 0x2a02b90>, <function wrapper at 0x2acd230>, <function wrapper at 0x2acd140>]
+waiters:  [<function wrapper at 0x2a02b90>, <function wrapper at 0x2acd230>, <function wrapper at 0x2acd140>]
+waiters:  [<function wrapper at 0x2a02b90>, <function wrapper at 0x2acd230>, <function wrapper at 0x2acd140>]
+waiters:  [<function wrapper at 0x2a1ad70>, <function wrapper at 0x2a1a848>]
+waiters:  [<function wrapper at 0x2a1ad70>, <function wrapper at 0x2a1a848>]
+waiters:  [<function wrapper at 0x2a1acf8>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2a1acf8>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2acd0c8>]
+waiters:  [<function wrapper at 0x2a1acf8>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2acd0c8>]
+waiters:  [<function wrapper at 0x2a1acf8>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2acd0c8>]
+waiters:  [<function wrapper at 0x2a1acf8>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2a1acf8>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2a1ac08>, <function wrapper at 0x2a1acf8>]
+waiters:  [<function wrapper at 0x2a1ac08>, <function wrapper at 0x2a1acf8>, <function wrapper at 0x2acd0c8>]
+waiters:  [<function wrapper at 0x2a1ac08>, <function wrapper at 0x2a1acf8>, <function wrapper at 0x2acd0c8>]
+waiters:  [<function wrapper at 0x2a1ac08>, <function wrapper at 0x2a1acf8>, <function wrapper at 0x2acd0c8>]
+waiters:  [<function wrapper at 0x2a1ac08>, <function wrapper at 0x2a1acf8>, <function wrapper at 0x2acd320>]
+waiters:  [<function wrapper at 0x2a1ac08>, <function wrapper at 0x2a1acf8>, <function wrapper at 0x2acd320>]
+waiters:  [<function wrapper at 0x2a1ac08>, <function wrapper at 0x2a1acf8>, <function wrapper at 0x2acd320>]
+waiters:  [<function wrapper at 0x2a1ae60>, <function wrapper at 0x2a1a758>, <function wrapper at 0x2a1acf8>]
+waiters:  [<function wrapper at 0x2a1ae60>, <function wrapper at 0x2a1a758>, <function wrapper at 0x2a1acf8>]
+waiters:  [<function wrapper at 0x2a1ae60>, <function wrapper at 0x2a1a758>, <function wrapper at 0x2a1acf8>]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1aaa0>, <function wrapper at 0x2a1ae60>]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1aaa0>, <function wrapper at 0x2a1ae60>]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1aaa0>, <function wrapper at 0x2a1ae60>]
+waiters:  [<function wrapper at 0x2a1a758>, <function wrapper at 0x2a1ac08>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x2a1a758>, <function wrapper at 0x2a1ac08>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x2a1a758>, <function wrapper at 0x2a1ac08>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x2a[I 110508 18:55:18 web:1243] 200 POST /a/message/updates (111.194.148.15) 1481.27ms
+[I 110508 18:55:18 web:1243] 200 POST /a/message/updates (123.103.6.9) 1459.94ms
+[I 110508 18:55:18 web:1243] 200 POST /a/message/updates (123.103.6.9) 163.02ms
+[I 110508 18:55:18 web:1243] 200 POST /a/message/new (123.103.6.9) 3.95ms
+[I 110508 18:55:33 chatdemo:97] Sending new message to 3 listeners
+[I 110508 18:55:33 web:1243] 200 POST /a/message/updates (111.194.148.15) 14718.51ms
+[I 110508 18:55:33 web:1243] 200 POST /a/message/updates (123.103.6.9) 14696.94ms
+[I 110508 18:55:33 web:1243] 200 POST /a/message/new (111.194.148.15) 3.52ms
+[I 110508 18:55:58 chatdemo:97] Sending new message to 2 listeners
+[I 110508 18:55:58 web:1243] 200 POST /a/message/updates (111.194.148.15) 25074.20ms
+[I 110508 18:55:58 web:1243] 200 POST /a/message/updates (123.103.6.9) 23876.17ms
+[I 110508 18:55:58 web:1243] 200 POST /a/message/new (123.103.6.9) 4.03ms
+[I 110508 18:56:10 web:1243] 200 GET / (123.103.6.9) 1.85ms
+[I 110508 18:56:10 web:1243] 304 GET /static/chat.css?v=26da2 (123.103.6.9) 0.51ms
+[I 110508 18:56:10 web:1243] 304 GET /static/chat.js?v=5d804 (123.103.6.9) 0.49ms
+[I 110508 18:56:10 chatdemo:97] Sending new message to 2 listeners
+[I 110508 18:56:10 web:1243] 200 POST /a/message/updates (111.194.148.15) 10408.81ms
+[I 110508 18:56:10 web:1243] 200 POST /a/message/new (111.194.148.15) 3.13ms
+[I 110508 18:57:28 chatdemo:97] Sending new message to 2 listeners
+[I 110508 18:57:28 web:1243] 200 POST /a/message/updates (111.194.148.15) 78006.32ms
+[I 110508 18:57:28 web:1243] 200 POST /a/message/new (111.194.148.15) 3.18ms
+[I 110508 18:58:10 web:1243] 200 GET / (123.103.6.9) 1.91ms
+[I 110508 19:00:14 chatdemo:97] Sending new message to 2 listeners
+[I 110508 19:00:14 web:1243] 200 POST /a/message/updates (123.103.6.9) 123593.49ms
+[I 110508 19:00:14 web:1243] 200 POST /a/message/new (123.103.6.9) 3.93ms
+[W 110508 19:00:14 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.31ms
+1ae60>, <function wrapper at 0x2a1aed8>, <function wrapper at 0x2a1a758>]
+waiters:  [<function wrapper at 0x2a1ae60>, <function wrapper at 0x2a1aed8>, <function wrapper at 0x2a1a758>]
+waiters:  [<function wrapper at 0x2a1ae60>, <function wrapper at 0x2a1aed8>, <function wrapper at 0x2a1a758>]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1acf8>, <function wrapper at 0x2a1ae60>]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1acf8>, <function wrapper at 0x2a1ae60>]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1acf8>, <function wrapper at 0x2a1ae60>]
+closed.... [{'body': u'\u7b49\u665a\u4e0a\u7684...\u73b0\u5728\u4eba\u90fd\u4e0d\u5728....- -', 'from': 'basket\xe2\x84\xa2', 'sina_url': 'http://www.douban.com/people/basket/', 'image': 'http://img3.douban.com/icon/u4578503-154.jpg', 'html': '\n<div class="message" id="m6fdbb354-8d20-4220-a016-3f7c292a4b31"><b><a href="http://www.douban.com/people/basket/" target="_blank"><img src="http://img3.douban.com/icon/u4578503-154.jpg" height=40 width=40></img></a>basket\xe2\x84\xa2: </b>\xe7\xad\x89\xe6\x99\x9a\xe4\xb8\x8a\xe7\x9a\x84...\xe7\x8e\xb0\xe5\x9c\xa8\xe4\xba\xba\xe9\x83\xbd\xe4\xb8\x8d\xe5\x9c\xa8....- -</div>\n', 'id': '6fdbb354-8d20-4220-a016-3f7c292a4b31'}]
+waiters:  [<function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1ae60>]
+waiters:  [<function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1ae60>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2ae60e0>, '4578503': <douban_oauth.douban_iterm instance at 0x2ab9440>}
+45116439
+4578503
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1ae60>]
+closed.... [{'body': u':)', 'from': 'basket\xe2\x84\xa2', 'sina_url': 'http://www.douban.com/people/basket/', 'image': 'http://img3.douban.com/icon/u4578503-154.jpg', 'html': '\n<div class="message" id="md7c280e9-1ed5-479f-8d6c-8ac7ecd58d3a"><b><a href="http://www.douban.com/people/basket/" target="_blank"><img src="http://img3.douban.com/icon/u4578503-154.jpg" height=40 width=40></img></a>basket\xe2\x84\xa2: </b>:)</div>\n', 'id': 'd7c280e9-1ed5-479f-8d6c-8ac7ecd58d3a'}]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1ae60>]
+waiters:  [<function wrapper at 0x2acd1b8>, <function wrapper at 0x2acd398>]
+waiters:  [<function wrapper at 0x2acd1b8>, <function wrapper at 0x2acd398>]
+closed.... [{'body': u'\u5403\u996d\u53bb\u4e86~', 'from': 'basket\xe2\x84\xa2', 'sina_url': 'http://www.douban.com/people/basket/', 'image': 'http://img3.douban.com/icon/u4578503-154.jpg', 'html': '\n<div class="message" id="mea351eb8-0a06-4377-82c9-7806597359cb"><b><a href="http://www.douban.com/people/basket/" target="_blank"><img src="http://img3.douban.com/icon/u4578503-154.jpg" height=40 width=40></img></a>basket\xe2\x84\xa2: </b>\xe5\x90\x83\xe9\xa5\xad\xe5\x8e\xbb\xe4\xba\x86~</div>\n', 'id': 'ea351eb8-0a06-4377-82c9-7806597359cb'}]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2ade758>, '4578503': <douban_oauth.douban_iterm instance at 0x2ab9440>}
+45116439
+4578503
+waiters:  [<function wrapper at 0x2a1ad70>, <function wrapper at 0x2a1acf8>]
+closed.... [{'body': u'\u54e6\uff0c\u597d\u7684', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="m6096c849-c1bb-41d9-9715-ee5ac3667b10"><b><a href="http://www.douban.com/people/KFCpenzi007/" target="_blank"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>\xe5\x93\xa6\xef\xbc\x8c\xe5\xa5\xbd\xe7\x9a\x84</div>\n', 'id': '6096c849-c1bb-41d9-9715-ee5ac3667b10'}]
+waiters:  [<function wrapper at 0x2a1ad70>, <function wrapper at 0x2a1acf8>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.dou[I 110508 19:03:42 web:1243] 200 GET / (123.103.6.9) 1.97ms
+[W 110508 19:05:31 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.30ms
+[I 110508 19:06:44 web:1243] 200 GET / (122.71.39.8) 0.52ms
+[I 110508 19:06:44 web:1243] 200 GET /static/chat.css?v=26da2 (122.71.39.8) 0.54ms
+[W 110508 19:06:46 web:1243] 404 GET /favicon.ico (122.71.39.8) 0.32ms
+[W 110508 19:07:47 iostream:291] Read error on 7: [Errno 104] Connection reset by peer
+[I 110508 19:13:56 web:1243] 304 GET / (123.103.6.9) 1.93ms
+[I 110508 19:24:22 web:1243] 304 GET / (123.103.6.9) 1.90ms
+[I 110508 19:42:48 web:1243] 200 GET / (122.95.16.98) 0.55ms
+[I 110508 19:42:48 web:1243] 200 GET /static/chat.css?v=26da2 (122.95.16.98) 0.53ms
+[W 110508 19:43:53 iostream:291] Read error on 7: [Errno 104] Connection reset by peer
+[I 110508 19:45:06 web:1243] 304 GET / (122.95.16.98) 0.49ms
+[I 110508 19:45:06 web:1243] 304 GET /static/chat.css?v=26da2 (122.95.16.98) 0.50ms
+[W 110508 19:45:06 iostream:291] Read error on 7: [Errno 104] Connection reset by peer
+[I 110508 19:45:06 web:1243] 304 GET / (122.95.16.98) 0.47ms
+[W 110508 19:45:06 iostream:291] Read error on 7: [Errno 104] Connection reset by peer
+[I 110508 19:45:06 web:1243] 304 GET / (122.95.16.98) 0.48ms
+[W 110508 19:45:06 iostream:291] Read error on 7: [Errno 104] Connection reset by peer
+[I 110508 19:45:06 web:1243] 304 GET / (122.95.16.98) 0.46ms
+[W 110508 19:45:06 iostream:291] Read error on 7: [Errno 104] Connection reset by peer
+[E 110508 19:45:06 web:908] Uncaught exception GET / (122.95.16.98)
+    HTTPRequest(protocol='http', host='stdyun.com:41860', method='GET', uri='/', version='HTTP/1.1', remote_ip='122.95.16.98', body='', headers={'Connection': 'Keep-Alive', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'If-None-Match': '"7d4fcd91707e7a6ec36a6730ac96c4b4c001467d"', 'Host': 'stdyun.com:41860', 'Accept': '*/*', 'User-Agent': 'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0;  Embedded Web Browser from: http://bsalsa.com/; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.1; .NET4.0C; TheWorld)'})
+    Traceback (most recent call last):
+      File "/home/vhost/s190/lib/python2.6/site-packages/tornado-1.2.1-py2.6.egg/tornado/stack_context.py", line 171, in wrapped
+        callback(*args, **kwargs)
+      File "/home/vhost/s190/lib/python2.6/site-packages/tornado-1.2.1-py2.6.egg/tornado/httpserver.py", line 307, in _on_write_complete
+        self._finish_request()
+      File "/home/vhost/s190/lib/python2.6/site-packages/tornado-1.2.1-py2.6.egg/tornado/httpserver.py", line 326, in _finish_request
+        self.stream.read_until("\r\n\r\n", self._header_callback)
+      File "/home/vhost/s190/lib/python2.6/site-packages/tornado-1.2.1-py2.6.egg/tornado/iostream.py", line 136, in read_until
+        if self._read_to_buffer() == 0:
+      File "/home/vhost/s190/lib/python2.6/site-packages/tornado-1.2.1-py2.6.egg/tornado/iostream.py", line 287, in _read_to_buffer
+        chunk = self._read_from_socket()
+      File "/home/vhost/s190/lib/python2.6/site-packages/tornado-1.2.1-py2.6.egg/tornado/iostream.py", line 268, in _read_from_socket
+        chunk = self.socket.recv(self.read_chunk_size)
+    error: [Errno 104] Connection reset by peer
+[E 110508 19:45:06 web:603] Cannot send error response after headers written
+[I 110508 19:45:07 web:1243] 304 GET / (122.95.16.98) 0.44ms
+[W 110508 19:45:07 iostream:291] Read error on 7: [Errno 104] Connection reset by peer
+[W 110508 19:45:07 iostream:291] Read error on 7: [Errno 104] Connection reset by peer
+[I 110508 19:45:07 web:1243] 304 GET / (122.95.16.98) 0.47ms
+[I 110508 19:45:07 web:1243] 304 GET /static/chat.css?v=26da2 (122.95.16.98) 0.49ms
+[W 110508 19:46:16 iostream:291] Read error on 7: [Errno 104] Connection reset by peer
+[I 110508 19:57:34 web:1243] 200 GET / (221.131.94.46) 0.50ms
+[I 110508 19:57:34 web:1243] 200 GET /static/chat.css?v=26da2 (221.131.94.46) 0.49ms
+[I 110508 19:57:43 web:1243] 304 GET / (123.103.6.9) 1.92ms
+[I 110508 19:57:53 chatdemo:97] Sending new message to 6 listeners
+ban_iterm instance at 0x2ae8368>, '4578503': <douban_oauth.douban_iterm instance at 0x2ab9440>}
+45116439
+4578503
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2adac20>, '4578503': <douban_oauth.douban_iterm instance at 0x2ab9440>}
+45116439
+4578503
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2ae0758>, '4578503': <douban_oauth.douban_iterm instance at 0x2ab9440>}
+45116439
+4578503
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2b75bd8>, '4578503': <douban_oauth.douban_iterm instance at 0x2ab9440>}
+45116439
+4578503
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2acd668>, <function wrapper at 0x2acd0c8>, <function wrapper at 0x2acdc80>, <function wrapper at 0x2b68140>, <function wrapper at 0x2b7c5f0>]
+closed.... [{'body': u'...\u6728\u6709\u4eba\u4e86', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="md244a13a-5ffa-4f96-bb8f-1738f0103c7c"><b><a href="http://www.douban.com/people/KFCpenzi007/" target="_blank"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>...\xe6\x9c\xa8\xe6\x9c\x89\xe4\xba\xba\xe4\xba\x86</div>\n', 'id': 'd244a13a-5ffa-4f96-bb8f-1738f0103c7c'}]
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2acd668>, <function wrapper at 0x2acd0c8>, <function wrapper at 0x2acdc80>, <function wrapper at 0x2b68140>, <function wrapper at 0x2b7c5f0>]
+closed.... [{'body': u'...\u6728\u6709\u4eba\u4e86', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="md244a13a-5ffa-4f96-bb8f-1738f0103c7c"><b><a href="http://www.douban.com/people/KFCpenzi007/" target="_blank"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>...\xe6\x9c\xa8\xe6\x9c\x89\xe4\xba\xba\xe4\xba\x86</div>\n', 'id': 'd244a13a-5ffa-4f96-bb8f-1738f0103c7c'}]
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2acd668>, <function wrapper at 0x2acd0c8>, <function wrapper at 0x2acdc80>, <function wrapper at 0x2b68140>, <function wrapper at 0x2b7c5f0>]
+closed.... [{'body': u'...\u6728\u6709\u4eba\u4e86', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="md244a13a-5ffa-4f96-bb8f-1738f0103c7c"><b><a href="http://www.douban.com/people/KFCpenzi007/" target="_blank"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>...\xe6\x9c\xa8\xe6\x9c\x89\xe4\xba\xba\xe4\xba\x86</div>\n', 'id': 'd244a13a-5ffa-4f96-bb8f-1738f0103c7c'}]
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2acd668>, <function wrapper at 0x2acd0c8>, <function wrapper at 0x2acdc80>, <function wrapper at 0x2b68140>, <function wrapper at 0x2b7c5f0>]
+closed.... [{'body': u'...\u6728\u6709\u4eba\u4e86', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="md244a13a-5ffa-4f96-bb8f-1738f0103c7c"><b><a href="http://www.douban.com/people/KFCpenzi007/" target="_blank"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>...\xe6\x9c\xa8\xe6\x9c\x89\xe4\xba\xba\xe4\xba\x86</div>\n', 'id': 'd244a13a-5ffa-4f96-bb8f-1738f0103c7c'}]
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2acd668>, <[I 110508 19:57:53 web:1243] 200 POST /a/message/updates (123.103.6.9) 9178.79ms
+[I 110508 19:57:53 web:1243] 200 POST /a/message/new (123.103.6.9) 4.07ms
+[W 110508 19:57:53 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.26ms
+[W 110508 19:59:08 iostream:291] Read error on 7: [Errno 104] Connection reset by peer
+[I 110508 20:05:50 web:1243] 200 GET / (211.136.28.135) 0.49ms
+[I 110508 20:05:54 web:1243] 200 GET / (117.135.147.190) 0.48ms
+[I 110508 20:07:37 web:1243] 200 GET / (111.194.148.15) 1.87ms
+[I 110508 20:09:12 web:1243] 200 GET / (113.142.8.15) 1.01ms
+[I 110508 20:13:08 chatdemo:97] Sending new message to 2 listeners
+[I 110508 20:13:08 web:1243] 200 POST /a/message/updates (123.103.6.9) 914495.45ms
+[I 110508 20:13:08 web:1243] 200 POST /a/message/new (123.103.6.9) 3.89ms
+[I 110508 20:15:44 web:1243] 200 GET / (111.194.148.15) 1.92ms
+[I 110508 20:15:48 chatdemo:97] Sending new message to 2 listeners
+[I 110508 20:15:48 web:1243] 200 POST /a/message/updates (111.194.148.15) 4619.97ms
+[I 110508 20:15:48 web:1243] 200 POST /a/message/new (111.194.148.15) 3.10ms
+[W 110508 20:15:48 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.30ms
+[I 110508 20:16:13 chatdemo:97] Sending new message to 1 listeners
+[I 110508 20:16:13 web:1243] 200 POST /a/message/updates (111.194.148.15) 25015.04ms
+[I 110508 20:16:13 web:1243] 200 POST /a/message/new (111.194.148.15) 3.09ms
+[I 110508 20:17:49 web:1243] 200 GET / (111.194.148.15) 1.98ms
+[I 110508 20:53:17 web:1243] 200 GET / (123.103.6.9) 2.07ms
+[I 110508 20:53:22 chatdemo:97] Sending new message to 3 listeners
+function wrapper at 0x2acd0c8>, <function wrapper at 0x2acdc80>, <function wrapper at 0x2b68140>, <function wrapper at 0x2b7c5f0>]
+closed.... [{'body': u'...\u6728\u6709\u4eba\u4e86', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="md244a13a-5ffa-4f96-bb8f-1738f0103c7c"><b><a href="http://www.douban.com/people/KFCpenzi007/" target="_blank"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>...\xe6\x9c\xa8\xe6\x9c\x89\xe4\xba\xba\xe4\xba\x86</div>\n', 'id': 'd244a13a-5ffa-4f96-bb8f-1738f0103c7c'}]
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2acd668>, <function wrapper at 0x2acd0c8>, <function wrapper at 0x2acdc80>, <function wrapper at 0x2b68140>, <function wrapper at 0x2b7c5f0>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2b75bd8>, '4578503': <douban_oauth.douban_iterm instance at 0x2b84a70>}
+45116439
+4578503
+waiters:  [<function wrapper at 0x2acdc80>, <function wrapper at 0x2b7c758>]
+waiters:  [<function wrapper at 0x2acdc80>, <function wrapper at 0x2b7c758>]
+closed.... [{'body': u'\u3002\u3002', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="m54cd7a6e-ac57-4044-88a4-f5ceb213166a"><b><a href="http://www.douban.com/people/KFCpenzi007/" target="_blank"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>\xe3\x80\x82\xe3\x80\x82</div>\n', 'id': '54cd7a6e-ac57-4044-88a4-f5ceb213166a'}]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2b75bd8>, '4578503': <douban_oauth.douban_iterm instance at 0x2b84560>}
+45116439
+4578503
+waiters:  [<function wrapper at 0x2b71f50>, <function wrapper at 0x2acd500>]
+closed.... [{'body': u'= =', 'from': 'basket\xe2\x84\xa2', 'sina_url': 'http://www.douban.com/people/basket/', 'image': 'http://img3.douban.com/icon/u4578503-154.jpg', 'html': '\n<div class="message" id="md7ce2af8-628c-4c4a-a2e5-4560921bd7fe"><b><a href="http://www.douban.com/people/basket/" target="_blank"><img src="http://img3.douban.com/icon/u4578503-154.jpg" height=40 width=40></img></a>basket\xe2\x84\xa2: </b>= =</div>\n', 'id': 'd7ce2af8-628c-4c4a-a2e5-4560921bd7fe'}]
+waiters:  [<function wrapper at 0x2b71f50>, <function wrapper at 0x2acd500>]
+waiters:  [<function wrapper at 0x2acd938>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2b75bd8>, '4578503': <douban_oauth.douban_iterm instance at 0x2b88368>}
+45116439
+4578503
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2b88d40>, '4578503': <douban_oauth.douban_iterm instance at 0x2b88368>}
+45116439
+4578503
+waiters:  [<function wrapper at 0x2acd6e0>, <function wrapper at 0x2acd9b0>, <function wrapper at 0x2b7c8c0>]
+closed.... [{'body': u'\u3002\u3002\u3002', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="mb3ec084e-fdfe-49e4-bb1b-1e3104c7bd9e"><b><a href="http://www.douban.com/people/KFCpenzi007/" target="_blank"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>\xe3\x80\x82\xe3\x80\x82\xe3\x80\x82</div>\n', 'id': 'b3ec084e-fdfe-49e4-bb1b-1e3104c7bd9e'}]
+waiters:  [<function wrapper at 0x2acd6e0>, <function wrapper at 0x2acd9b0>, <function wrapper at 0x2b7c8c0>]
+closed.... [{'body': u'\u3002\u3002\u3002', 'from': '\xe7\x9c\x9f\xe8\xb[I 110508 20:53:22 web:1243] 200 POST /a/message/updates (123.103.6.9) 3477.80ms
+[I 110508 20:53:22 web:1243] 200 POST /a/message/new (123.103.6.9) 3.88ms
+[W 110508 20:53:22 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.31ms
+[I 110508 20:53:25 chatdemo:97] Sending new message to 1 listeners
+[I 110508 20:53:25 web:1243] 200 POST /a/message/updates (123.103.6.9) 3274.32ms
+[I 110508 20:53:25 web:1243] 200 POST /a/message/new (123.103.6.9) 6.32ms
+[I 110508 20:53:37 chatdemo:97] Sending new message to 1 listeners
+[I 110508 20:53:37 web:1243] 200 POST /a/message/updates (123.103.6.9) 10834.77ms
+[I 110508 20:53:37 web:1243] 200 POST /a/message/new (123.103.6.9) 3.82ms
+[I 110508 21:09:50 web:1243] 200 GET / (123.103.6.9) 2.18ms
+[I 110508 21:18:30 web:1243] 304 GET / (123.103.6.9) 2.13ms
+[I 110508 21:19:38 web:1243] 200 GET / (125.71.231.203) 0.51ms
+[I 110508 21:19:38 web:1243] 200 GET /static/chat.css?v=26da2 (125.71.231.203) 0.54ms
+[W 110508 21:19:39 web:1243] 404 GET /favicon.ico (125.71.231.203) 0.32ms
+[I 110508 21:19:48 web:1243] 200 GET / (119.179.50.74) 0.49ms
+[I 110508 21:19:48 web:1243] 200 GET /static/chat.css?v=26da2 (119.179.50.74) 0.48ms
+[W 110508 21:20:15 iostream:291] Read error on 11: [Errno 104] Connection reset by peer
+[W 110508 21:20:17 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.29ms
+[W 110508 21:20:40 iostream:291] Read error on 8: [Errno 104] Connection reset by peer
+[I 110508 21:22:14 web:1243] 200 GET / (111.194.148.15) 2.06ms
+[I 110508 21:22:21 chatdemo:97] Sending new message to 5 listeners
+[I 110508 21:22:21 web:1243] 200 POST /a/message/updates (123.103.6.9) 123512.43ms
+[I 110508 21:22:21 web:1243] 200 POST /a/message/updates (111.194.148.15) 6615.05ms
+[I 110508 21:22:21 web:1243] 200 POST /a/message/new (111.194.148.15) 3.45ms
+[W 110508 21:22:21 web:1243] 404 GET /favicon.ico (111.194.148.15) 0.30ms
+[I 110508 21:22:34 web:1243] 200 GET / (125.71.231.203) 0.56ms
+[I 110508 21:22:34 web:1243] 200 GET /static/chat.css?v=26da2 (125.71.231.203) 0.56ms
+[W 110508 21:22:34 web:1243] 404 GET /favicon.ico (125.71.231.203) 0.27ms
+[W 110508 21:22:36 web:1243] 404 GET /favicon.ico (125.71.231.203) 0.31ms
+[I 110508 21:22:46 web:1243] 200 GET / (123.103.6.9) 2.19ms
+[I 110508 21:22:48 web:1243] 304 GET / (125.71.231.203) 0.51ms
+[I 110508 21:22:48 web:1243] 304 GET /static/chat.css?v=26da2 (125.71.231.203) 0.49ms
+[I 110508 21:22:54 chatdemo:97] Sending new message to 3 listeners
+0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="mb3ec084e-fdfe-49e4-bb1b-1e3104c7bd9e"><b><a href="http://www.douban.com/people/KFCpenzi007/" target="_blank"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>\xe3\x80\x82\xe3\x80\x82\xe3\x80\x82</div>\n', 'id': 'b3ec084e-fdfe-49e4-bb1b-1e3104c7bd9e'}]
+waiters:  [<function wrapper at 0x2acd6e0>, <function wrapper at 0x2acd9b0>, <function wrapper at 0x2b7c8c0>]
+waiters:  [<function wrapper at 0x2b7c6e0>]
+waiters:  [<function wrapper at 0x2b68140>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2b8a170>, '4578503': <douban_oauth.douban_iterm instance at 0x2b88368>}
+45116439
+4578503
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2b75b90>, '4578503': <douban_oauth.douban_iterm instance at 0x2b88368>}
+45116439
+4578503
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2b75b90>, '4578503': <douban_oauth.douban_iterm instance at 0x2b88cb0>}
+45116439
+4578503
+waiters:  [<function wrapper at 0x2b680c8>, <function wrapper at 0x2a1ab18>, <function wrapper at 0x2a1a578>, <function wrapper at 0x2acd500>, <function wrapper at 0x2acd0c8>]
+closed.... [{'body': u'\u597d\u7684', 'from': 'basket\xe2\x84\xa2', 'sina_url': 'http://www.douban.com/people/basket/', 'image': 'http://img3.douban.com/icon/u4578503-154.jpg', 'html': '\n<div class="message" id="m47b3445b-57b8-4486-94d8-230909e2bc23"><b><a href="http://www.douban.com/people/basket/" target="_blank"><img src="http://img3.douban.com/icon/u4578503-154.jpg" height=40 width=40></img></a>basket\xe2\x84\xa2: </b>\xe5\xa5\xbd\xe7\x9a\x84</div>\n', 'id': '47b3445b-57b8-4486-94d8-230909e2bc23'}]
+waiters:  [<function wrapper at 0x2b680c8>, <function wrapper at 0x2a1ab18>, <function wrapper at 0x2a1a578>, <function wrapper at 0x2acd500>, <function wrapper at 0x2acd0c8>]
+closed.... [{'body': u'\u597d\u7684', 'from': 'basket\xe2\x84\xa2', 'sina_url': 'http://www.douban.com/people/basket/', 'image': 'http://img3.douban.com/icon/u4578503-154.jpg', 'html': '\n<div class="message" id="m47b3445b-57b8-4486-94d8-230909e2bc23"><b><a href="http://www.douban.com/people/basket/" target="_blank"><img src="http://img3.douban.com/icon/u4578503-154.jpg" height=40 width=40></img></a>basket\xe2\x84\xa2: </b>\xe5\xa5\xbd\xe7\x9a\x84</div>\n', 'id': '47b3445b-57b8-4486-94d8-230909e2bc23'}]
+waiters:  [<function wrapper at 0x2b680c8>, <function wrapper at 0x2a1ab18>, <function wrapper at 0x2a1a578>, <function wrapper at 0x2acd500>, <function wrapper at 0x2acd0c8>]
+closed.... [{'body': u'\u597d\u7684', 'from': 'basket\xe2\x84\xa2', 'sina_url': 'http://www.douban.com/people/basket/', 'image': 'http://img3.douban.com/icon/u4578503-154.jpg', 'html': '\n<div class="message" id="m47b3445b-57b8-4486-94d8-230909e2bc23"><b><a href="http://www.douban.com/people/basket/" target="_blank"><img src="http://img3.douban.com/icon/u4578503-154.jpg" height=40 width=40></img></a>basket\xe2\x84\xa2: </b>\xe5\xa5\xbd\xe7\x9a\x84</div>\n', 'id': '47b3445b-57b8-4486-94d8-230909e2bc23'}]
+waiters:  [<function wrapper at 0x2b680c8>, <function wrapper at 0x2a1ab18>, <function wrapper at 0x2a1a578>, <function wrapper at 0x2acd500>, <function wrapper at 0x2acd0c8>]
+waiters:  [<function wrapper at 0x2b680c8>, <function wrapper at 0x2a1ab18>, <function wrapper at 0x2a1a578>, <function wrapper at 0x2acd500>, <function wrapper at 0x2acd0c8>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2b886c8>, '4578503': <douban_oauth.douban_iterm instance at 0x2b88cb0>}
+45116439
+4578503
+waiters:  [<function wrapper at 0x2acd938>, <function wrapper at 0x2b68140>, <func[I 110508 21:22:54 web:1243] 200 POST /a/message/updates (111.194.148.15) 32684.77ms
+[I 110508 21:22:54 web:1243] 200 POST /a/message/updates (123.103.6.9) 30962.23ms
+[I 110508 21:22:54 web:1243] 200 POST /a/message/updates (123.103.6.9) 7282.96ms
+[I 110508 21:22:54 web:1243] 200 POST /a/message/new (111.194.148.15) 3.73ms
+[I 110508 21:22:55 web:1243] 302 GET /wblogin?name=sina (125.71.231.203) 215.96ms
+[W 110508 21:22:55 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.30ms
+[I 110508 21:22:57 web:1243] 304 GET / (125.71.231.203) 0.64ms
+[W 110508 21:22:58 web:1243] 404 GET /favicon.ico (125.71.231.203) 0.32ms
+[I 110508 21:23:00 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:23:00 web:1243] 200 POST /a/message/updates (111.194.148.15) 6010.05ms
+[I 110508 21:23:00 web:1243] 200 POST /a/message/updates (123.103.6.9) 5017.93ms
+[I 110508 21:23:00 web:1243] 200 POST /a/message/updates (123.103.6.9) 4662.27ms
+[I 110508 21:23:00 web:1243] 200 POST /a/message/new (123.103.6.9) 4.43ms
+[I 110508 21:23:04 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:23:04 web:1243] 200 POST /a/message/updates (123.103.6.9) 3696.90ms
+[I 110508 21:23:04 web:1243] 200 POST /a/message/updates (111.194.148.15) 2896.31ms
+[I 110508 21:23:04 web:1243] 200 POST /a/message/updates (123.103.6.9) 2296.45ms
+[I 110508 21:23:04 web:1243] 200 POST /a/message/new (123.103.6.9) 4.42ms
+[I 110508 21:23:07 web:1243] 302 GET /wblogin?name=sina (125.71.231.203) 31.36ms
+[I 110508 21:23:09 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:23:09 web:1243] 200 POST /a/message/updates (111.194.148.15) 5040.50ms
+[I 110508 21:23:09 web:1243] 200 POST /a/message/updates (123.103.6.9) 5009.87ms
+[I 110508 21:23:09 web:1243] 200 POST /a/message/updates (123.103.6.9) 3392.15ms
+[I 110508 21:23:09 web:1243] 200 POST /a/message/new (111.194.148.15) 3.54ms
+[I 110508 21:23:15 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:23:15 web:1243] 200 POST /a/message/updates (111.194.148.15) 6252.05ms
+[I 110508 21:23:15 web:1243] 200 POST /a/message/updates (123.103.6.9) 6240.20ms
+[I 110508 21:23:15 web:1243] 200 POST /a/message/updates (123.103.6.9) 4671.16ms
+[I 110508 21:23:15 web:1243] 200 POST /a/message/new (123.103.6.9) 4.48ms
+[I 110508 21:23:19 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:23:19 web:1243] 200 POST /a/message/updates (111.194.148.15) 3412.98ms
+[I 110508 21:23:19 web:1243] 200 POST /a/message/updates (123.103.6.9) 3070.84ms
+[I 110508 21:23:19 web:1243] 200 POST /a/message/updates (123.103.6.9) 2019.10ms
+[I 110508 21:23:19 web:1243] 200 POST /a/message/new (111.194.148.15) 3.64ms
+[I 110508 21:23:37 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:23:37 web:1243] 200 POST /a/message/updates (111.194.148.15) 18296.48ms
+[I 110508 21:23:37 web:1243] 200 POST /a/message/updates (123.103.6.9) 17637.17ms
+[I 110508 21:23:37 web:1243] 200 POST /a/message/updates (123.103.6.9) 16242.97ms
+[I 110508 21:23:37 web:1243] 200 POST /a/message/new (123.103.6.9) 4.55ms
+[I 110508 21:23:44 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:23:44 web:1243] 200 POST /a/message/updates (123.103.6.9) 7092.88ms
+[I 110508 21:23:44 web:1243] 200 POST /a/message/updates (111.194.148.15) 5676.04ms
+[I 110508 21:23:44 web:1243] 200 POST /a/message/updates (123.103.6.9) 5384.37ms
+[I 110508 21:23:44 web:1243] 200 POST /a/message/new (111.194.148.15) 3.58ms
+[I 110508 21:23:45 web:1243] 200 GET / (123.103.6.9) 2.44ms
+[I 110508 21:23:46 web:1243] 304 GET /static/chat.js?v=5d804 (123.103.6.9) 0.50ms
+[I 110508 21:23:46 web:1243] 304 GET /static/chat.css?v=26da2 (123.103.6.9) 0.38ms
+[W 110508 21:23:51 web:1243] 404 GET /favicon.ico (125.71.231.203) 0.32ms
+[I 110508 21:23:52 web:1243] 200 GET / (219.234.81.135) 0.48ms
+[I 110508 21:23:52 web:1243] 200 GET / (125.71.231.203) 0.47ms
+[I 110508 21:23:53 chatdemo:97] Sending new message to 4 listeners
+[I 110508 21:23:53 web:1243] 200 POST /a/message/updates (111.194.148.15) 8081.42ms
+[I 110508 21:23:53 web:1243] 200 POST /a/message/updates (123.103.6.9) 6497.34ms
+[I 110508 21:23:53 web:1243] 200 POST /a/message/updates (123.103.6.9) 2454.27ms
+[I 110508 21:23:53 web:1243] 200 POST /a/message/new (123.103.6.9) 4.46ms
+[I 110508 21:23:57 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:23:57 web:1243] 200 POST /a/message/updates (111.194.148.15) 4574.00ms
+tion wrapper at 0x29d4668>]
+waiters:  [<function wrapper at 0x2acd938>, <function wrapper at 0x2b68140>, <function wrapper at 0x29d4668>]
+waiters:  [<function wrapper at 0x2acd938>, <function wrapper at 0x2b68140>, <function wrapper at 0x29d4668>]
+sina
+waiters:  [<function wrapper at 0x2a1ad70>, <function wrapper at 0x29d4668>, <function wrapper at 0x2b68140>]
+waiters:  [<function wrapper at 0x2a1ad70>, <function wrapper at 0x29d4668>, <function wrapper at 0x2b68140>]
+waiters:  [<function wrapper at 0x2a1ad70>, <function wrapper at 0x29d4668>, <function wrapper at 0x2b68140>]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1ad70>]
+sina
+waiters:  [<function wrapper at 0x2b680c8>, <function wrapper at 0x2a1a500>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x2b680c8>, <function wrapper at 0x2a1a500>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x2b680c8>, <function wrapper at 0x2a1a500>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x29d46e0>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x29d46e0>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x29d46e0>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x2b68140>, <function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x2b68140>, <function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x2b68140>, <function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x2b71de8>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2b71de8>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2b71de8>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2b680c8>, <function wrapper at 0x2a1a500>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2b680c8>, <function wrapper at 0x2a1a500>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2b680c8>, <function wrapper at 0x2a1a500>, <function wrapper at 0x2a1ad70>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2b84440>, '4578503': <douban_oauth.douban_iterm instance at 0x2b88cb0>}
+45116439
+4578503
+waiters:  [<function wrapper at 0x29d4668>, <function wrapper at 0x2a1a578>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2acdd70>]
+waiters:  [<function wrapper at 0x29d4668>, <function wrapper at 0x2a1a578>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2acdd70>]
+closed.... [{'body': u'\u4f60\u54c7\u795e\u9a6c', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="m3356b22e-9bbe-484d-b517-434b4af15aa3"><b><a href="http://www.douban.com/people/KFCpenzi007/" target="_blank"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>\xe4\xbd\xa0\xe5\x93\x87\xe7\xa5\x9e\xe9\xa9\xac</div>\n', 'id': '3356b22e-9bbe-484d-b517-434b4af15aa3'}]
+waiters:  [<function wrapper at 0x29d4668>, <function wrapper at 0x2a1a578>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2acdd70>]
+waiters:  [<function wrapper at 0x29d4668>, <function wrapper at 0x2a1a578>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2acdd70>]
+waiters:  [<function wrapper at 0x2a1a500>, <function wrapper at 0x2a1a578>, <function wrapper at 0x2a1a7d0>]
+waiters:  [<function wrapper[I 110508 21:23:57 web:1243] 200 POST /a/message/updates (123.103.6.9) 4218.41ms
+[I 110508 21:23:57 web:1243] 200 POST /a/message/updates (123.103.6.9) 2038.84ms
+[I 110508 21:23:57 web:1243] 200 POST /a/message/new (111.194.148.15) 3.63ms
+[W 110508 21:23:57 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.27ms
+[I 110508 21:24:01 web:1243] 200 GET /static/chat.css?v=26da2 (219.234.81.135) 0.56ms
+[W 110508 21:24:10 iostream:291] Read error on 18: [Errno 104] Connection reset by peer
+[I 110508 21:24:11 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:24:11 web:1243] 200 POST /a/message/updates (111.194.148.15) 13428.43ms
+[I 110508 21:24:11 web:1243] 200 POST /a/message/updates (123.103.6.9) 13398.87ms
+[I 110508 21:24:11 web:1243] 200 POST /a/message/updates (123.103.6.9) 11525.25ms
+[I 110508 21:24:11 web:1243] 200 POST /a/message/new (123.103.6.9) 4.46ms
+[I 110508 21:24:32 web:1243] 304 GET / (119.179.50.74) 0.51ms
+[I 110508 21:25:08 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:25:08 web:1243] 200 POST /a/message/updates (123.103.6.9) 57214.57ms
+[I 110508 21:25:08 web:1243] 200 POST /a/message/updates (123.103.6.9) 55793.19ms
+[I 110508 21:25:08 web:1243] 200 POST /a/message/updates (111.194.148.15) 55704.74ms
+[I 110508 21:25:08 web:1243] 200 POST /a/message/new (111.194.148.15) 3.68ms
+[W 110508 21:25:31 iostream:291] Read error on 15: [Errno 104] Connection reset by peer
+[I 110508 21:25:57 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:25:57 web:1243] 200 POST /a/message/updates (111.194.148.15) 48710.59ms
+[I 110508 21:25:57 web:1243] 200 POST /a/message/updates (123.103.6.9) 48704.85ms
+[I 110508 21:25:57 web:1243] 200 POST /a/message/updates (123.103.6.9) 47338.31ms
+[I 110508 21:25:57 web:1243] 200 POST /a/message/new (123.103.6.9) 4.44ms
+[I 110508 21:26:34 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:26:34 web:1243] 200 POST /a/message/updates (111.194.148.15) 36397.14ms
+[I 110508 21:26:34 web:1243] 200 POST /a/message/updates (123.103.6.9) 35906.56ms
+[I 110508 21:26:34 web:1243] 200 POST /a/message/updates (123.103.6.9) 35800.81ms
+[I 110508 21:26:34 web:1243] 200 POST /a/message/new (111.194.148.15) 3.80ms
+[I 110508 21:26:42 web:1243] 200 GET / (124.115.10.252) 0.52ms
+[I 110508 21:26:51 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:26:51 web:1243] 200 POST /a/message/updates (111.194.148.15) 16544.09ms
+[I 110508 21:26:51 web:1243] 200 POST /a/message/updates (123.103.6.9) 16522.39ms
+[I 110508 21:26:51 web:1243] 200 POST /a/message/updates (123.103.6.9) 14380.18ms
+[I 110508 21:26:51 web:1243] 200 POST /a/message/new (111.194.148.15) 3.74ms
+[I 110508 21:27:02 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:27:02 web:1243] 200 POST /a/message/updates (111.194.148.15) 11365.25ms
+[I 110508 21:27:02 web:1243] 200 POST /a/message/updates (123.103.6.9) 11345.28ms
+[I 110508 21:27:02 web:1243] 200 POST /a/message/updates (123.103.6.9) 9779.34ms
+[I 110508 21:27:02 web:1243] 200 POST /a/message/new (123.103.6.9) 4.43ms
+[I 110508 21:27:13 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:27:13 web:1243] 200 POST /a/message/updates (123.103.6.9) 10266.22ms
+[I 110508 21:27:13 web:1243] 200 POST /a/message/updates (123.103.6.9) 8908.39ms
+[I 110508 21:27:13 web:1243] 200 POST /a/message/updates (111.194.148.15) 8760.94ms
+[I 110508 21:27:13 web:1243] 200 POST /a/message/new (111.194.148.15) 3.58ms
+[I 110508 21:27:17 web:1243] 200 GET / (123.103.6.9) 2.74ms
+[I 110508 21:27:17 web:1243] 304 GET /static/chat.css?v=26da2 (123.103.6.9) 0.51ms
+[I 110508 21:27:20 web:1243] 304 GET /static/chat.js?v=5d804 (123.103.6.9) 0.50ms
+[I 110508 21:27:33 chatdemo:97] Sending new message to 4 listeners
+[I 110508 21:27:33 web:1243] 200 POST /a/message/updates (111.194.148.15) 20401.45ms
+[I 110508 21:27:33 web:1243] 200 POST /a/message/updates (123.103.6.9) 19027.05ms
+[I 110508 21:27:33 web:1243] 200 POST /a/message/updates (123.103.6.9) 7986.68ms
+[I 110508 21:27:33 web:1243] 200 POST /a/message/new (123.103.6.9) 4.51ms
+[W 110508 21:27:33 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.26ms
+[I 110508 21:29:25 chatdemo:97] Sending new message to 3 listeners
+[I 110508 21:29:25 web:1243] 200 POST /a/message/updates (123.103.6.9) 111611.33ms
+ at 0x2a1a500>, <function wrapper at 0x2a1a578>, <function wrapper at 0x2a1a7d0>]
+waiters:  [<function wrapper at 0x2a1a500>, <function wrapper at 0x2a1a578>, <function wrapper at 0x2a1a7d0>]
+waiters:  [<function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a6e0>, <function wrapper at 0x2a1a500>]
+waiters:  [<function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a6e0>, <function wrapper at 0x2a1a500>]
+waiters:  [<function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a6e0>, <function wrapper at 0x2a1a500>]
+waiters:  [<function wrapper at 0x2a1ab90>, <function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a5f0>]
+waiters:  [<function wrapper at 0x2a1ab90>, <function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a5f0>]
+waiters:  [<function wrapper at 0x2a1ab90>, <function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a5f0>]
+waiters:  [<function wrapper at 0x2a1a500>, <function wrapper at 0x2a1ab90>, <function wrapper at 0x2acd668>]
+waiters:  [<function wrapper at 0x2a1a500>, <function wrapper at 0x2a1ab90>, <function wrapper at 0x2acd668>]
+waiters:  [<function wrapper at 0x2a1a500>, <function wrapper at 0x2a1ab90>, <function wrapper at 0x2acd668>]
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1ad70>]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1a6e0>, <function wrapper at 0x2a1a7d0>]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1a6e0>, <function wrapper at 0x2a1a7d0>]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1a6e0>, <function wrapper at 0x2a1a7d0>]
+waiters:  [<function wrapper at 0x2a1a578>, <function wrapper at 0x2a1ab90>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x2a1a578>, <function wrapper at 0x2a1ab90>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x2a1a578>, <function wrapper at 0x2a1ab90>, <function wrapper at 0x2a1a410>]
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a578>]
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a578>]
+waiters:  [<function wrapper at 0x2a1a7d0>, <function wrapper at 0x2a1a5f0>, <function wrapper at 0x2a1a578>]
+['__doc__', '__init__', '__module__', 'id', 'profile_image_url', 'url', 'username']
+{'45116439': <douban_oauth.douban_iterm instance at 0x2ae0b90>, '4578503': <douban_oauth.douban_iterm instance at 0x2b88cb0>}
+45116439
+4578503
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2a1a500>, <function wrapper at 0x2acd668>]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2a1a500>, <function wrapper at 0x2acd668>]
+closed.... [{'body': u'\u4ece100000\u5f00\u59cb\u7b97\u8d77\u7684', 'from': '\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e', 'sina_url': 'http://www.douban.com/people/KFCpenzi007/', 'image': 'http://img3.douban.com/icon/u45116439-20.jpg', 'html': '\n<div class="message" id="mb417f035-a22d-4772-9ec9-a5543eb00e9f"><b><a href="http://www.douban.com/people/KFCpenzi007/" target="_blank"><img src="http://img3.douban.com/icon/u45116439-20.jpg" height=40 width=40></img></a>\xe7\x9c\x9f\xe8\xb0\x9b\xef\xbd\x9e: </b>\xe4\xbb\x8e100000\xe5\xbc\x80\xe5\xa7\x8b\xe7\xae\x97\xe8\xb5\xb7\xe7\x9a\x84</div>\n', 'id': 'b417f035-a22d-4772-9ec9-a5543eb00e9f'}]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2a1a500>, <function wrapper at 0x2acd668>]
+waiters:  [<function wrapper at 0x2a1a410>, <function wrapper at 0x2a1ad70>, <function wrapper at 0x2a1a500>, <function wrapper at 0x2acd668>]
+waiters:  [<function wrapper at 0x2a1ad70>, <function wrapper at 0x2acd6e0>, <function wrapper at 0x2acd848>]
+waiters:  [<function wrapper at 0x2a1ad70>, <f[I 110508 21:29:25 web:1243] 200 POST /a/message/updates (111.194.148.15) 110321.77ms
+[I 110508 21:29:25 web:1243] 200 POST /a/message/updates (123.103.6.9) 109524.86ms
+[I 110508 21:29:25 web:1243] 200 POST /a/message/new (111.194.148.15) 3.74ms
+[W 110508 21:34:45 iostream:291] Read error on 12: [Errno 104] Connection reset by peer
+[I 110509 22:28:37 web:1243] 304 GET / (123.103.6.9) 9.28ms
+[I 110509 22:30:22 web:1243] 200 GET / (123.125.36.148) 1.46ms
+[W 110509 22:33:16 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.34ms
+[I 110509 22:33:17 web:1243] 304 GET / (123.103.6.9) 1.11ms
+[I 110509 22:33:17 web:1243] 304 GET /static/chat.css?v=26da2 (123.103.6.9) 4.82ms
+[I 110509 22:33:17 web:1243] 304 GET /static/chat.js?v=5d804 (123.103.6.9) 0.39ms
+[W 110509 22:43:52 web:1243] 404 GET /favicon.ico (123.103.6.9) 0.30ms
+[I 110509 22:43:52 web:1243] 304 GET / (123.103.6.9) 1.15ms
+[I 110509 22:43:52 web:1243] 304 GET /static/chat.css?v=26da2 (123.103.6.9) 0.48ms
+[I 110509 22:43:52 web:1243] 304 GET /static/chat.js?v=5d804 (123.103.6.9) 0.46ms
+[I 110509 23:16:48 web:1243] 200 GET / (121.14.77.216) 0.56ms
+[I 110509 23:19:31 web:1243] 200 GET / (125.71.89.156) 0.49ms
+[I 110509 23:19:32 web:1243] 200 GET /static/chat.css?v=26da2 (125.71.89.156) 0.54ms
+[I 110509 23:19:49 web:1243] 200 GET /wblogin?name=renren (125.71.89.156) 0.47ms
+[W 110509 23:19:54 iostream:291] Read error on 7: [Errno 104] Connection reset by peer
+[I 110510 01:18:07 web:1243] 200 GET / (183.62.126.7) 0.50ms
+[I 110510 01:18:07 web:1243] 200 GET /static/chat.css?v=26da2 (183.62.126.7) 0.54ms
+[I 110510 01:49:18 web:1243] 200 GET / (222.73.74.235) 0.50ms
+[I 110510 01:49:18 web:1243] 200 GET /static/chat.css?v=26da2 (222.73.74.235) 0.52ms
+[I 110510 10:16:52 web:1243] 200 GET / (113.108.91.91) 0.50ms
+[I 110510 16:19:39 web:1243] 200 GET / (123.114.114.180) 28.18ms
+[I 110510 16:19:39 web:1243] 200 GET /static/chat.css?v=26da2 (123.114.114.180) 11.57ms
+[I 110510 16:19:39 web:1243] 200 GET /static/chat.js?v=5d804 (123.114.114.180) 0.97ms
+[W 110510 16:20:09 iostream:291] Read error on 8: [Errno 104] Connection reset by peer
+[I 110511 17:28:59 web:1243] 200 GET / (210.192.101.124) 19.98ms
+[W 110511 17:29:20 web:1243] 404 GET /favicon.ico (210.192.101.124) 0.31ms
+
+2011-05-11 17:39:01.576569 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.pyc
+reloading...
+
+2011-05-11 17:39:03.108287 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:41:08.043280 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:41:09.303376 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:41:26.651256 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:41:38.973526 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:41:40.247521 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:42:10.668322 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:42:11.928880 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:43:06.505210 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:43:07.765173 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:43:25.116176 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:43:30.399903 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:46:42.691407 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:48:14.437961 changed
+/home/vhost/s190/dongyi/tornado-chatroom/sina_auth.pyc
+reloading...
+[I 110511 17:48:22 web:1243] 200 GET / (210.192.101.124) 20.67ms
+[I 110511 17:48:23 web:1243] 200 GET /static/chat.css?v=26da2 (210.192.101.124) 4.76ms
+[W 110511 17:48:26 web:1243] 404 GET /favicon.ico (210.192.101.124) 0.32ms
+[E 110511 17:48:27 web:908] Uncaught exception GET /wblogin?name=renren (210.192.101.124)
+    HTTPRequest(protocol='http', host='stdyun.com:41860', method='GET', uri='/wblogin?name=renren', version='HTTP/1.1', remote_ip='210.192.101.124', body='', headers={'Host': 'stdyun.com:41860', 'Accept-Language': 'zh-cn,zh;q=0.5', 'Accept-Encoding': 'gzip,deflate', 'Keep-Alive': '115', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.15) Gecko/20110303 Firefox/3.6.15', 'Accept-Charset': 'GB2312,utf-8;q=0.7,*;q=0.7', 'Connection': 'keep-alive', 'Referer': 'http://stdyun.com:41860/', 'Cookie': 'session_id=NDkxZTk5ZGEzMTljOWYyNjFkZTc5ZTQwMGIxOTJmMWM=|1304851980|4a00a0678dd483c1ed55074b4a89606dc79ba868; hmac_digest=MWRmNDI1NWNkYjhkNmMyNzBkMDM3N2JhZWI4YTIxYWVmZDUwMWQwYg==|1304851980|4d7fe20427af64d543bc4daf4c5b8420a3476c5c; _xsrf=184838816d014fd39d3d9a35683197c3'})
+    Traceback (most recent call last):
+      File "/home/vhost/s190/lib/python2.6/site-packages/tornado-1.2.1-py2.6.egg/tornado/web.py", line 869, in _execute
+        getattr(self, self.request.method.lower())(*args, **kwargs)
+      File "/home/vhost/s190/dongyi/tornado-chatroom/sina_auth.py", line 131, in get
+        url = R.first()
+    TypeError: first() takes at least 2 arguments (0 given)
+[E 110511 17:48:28 web:1243] 500 GET /wblogin?name=renren (210.192.101.124) 16.80ms
+[W 110511 17:48:28 web:1243] 404 GET /favicon.ico (210.192.101.124) 0.27ms
+[W 110511 17:48:31 web:1243] 404 GET /favicon.ico (210.192.101.124) 0.30ms
+[W 110511 17:48:31 web:1243] 404 GET /favicon.ico (210.192.101.124) 0.32ms
+
+2011-05-11 17:50:30.434760 changed
+/home/vhost/s190/dongyi/tornado-chatroom/sina_auth.py
+reloading...
+
+2011-05-11 17:50:48.784793 changed
+/home/vhost/s190/dongyi/tornado-chatroom/sina_auth.py
+reloading...
+[E 110511 17:50:53 web:908] Uncaught exception GET /wblogin?name=renren (210.192.101.124)
+    HTTPRequest(protocol='http', host='stdyun.com:41860', method='GET', uri='/wblogin?name=renren', version='HTTP/1.1', remote_ip='210.192.101.124', body='', headers={'Host': 'stdyun.com:41860', 'Accept-Language': 'zh-cn,zh;q=0.5', 'Accept-Encoding': 'gzip,deflate', 'Keep-Alive': '115', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.15) Gecko/20110303 Firefox/3.6.15', 'Accept-Charset': 'GB2312,utf-8;q=0.7,*;q=0.7', 'Connection': 'keep-alive', 'Cookie': 'session_id=NDkxZTk5ZGEzMTljOWYyNjFkZTc5ZTQwMGIxOTJmMWM=|1304851980|4a00a0678dd483c1ed55074b4a89606dc79ba868; hmac_digest=MWRmNDI1NWNkYjhkNmMyNzBkMDM3N2JhZWI4YTIxYWVmZDUwMWQwYg==|1304851980|4d7fe20427af64d543bc4daf4c5b8420a3476c5c; _xsrf=184838816d014fd39d3d9a35683197c3'})
+    Traceback (most recent call last):
+      File "/home/vhost/s190/lib/python2.6/site-packages/tornado-1.2.1-py2.6.egg/tornado/web.py", line 869, in _execute
+        getattr(self, self.request.method.lower())(*args, **kwargs)
+      File "/home/vhost/s190/dongyi/tornado-chatroom/sina_auth.py", line 131, in get
+        R = renren_oauth.renren(R.RENREN_APP_API_KEY,login_backurl)
+    UnboundLocalError: local variable 'R' referenced before assignment
+[E 110511 17:50:53 web:1243] 500 GET /wblogin?name=renren (210.192.101.124) 2.24ms
+
+2011-05-11 17:52:21.539051 changed
+/home/vhost/s190/dongyi/tornado-chatroom/sina_auth.py
+reloading...
+[I 110511 17:52:32 web:1243] 302 GET /wblogin?name=renren (210.192.101.124) 2.09ms
+[I 110511 17:52:32 web:1243] 200 GET /wblogin_check?error=redirect_uri_mismatch&error_description=The+redirect+uri+received+mismatches+the+registered+uri+associated+with+the+client+identifier.&error_uri=http%3A%2F%2Fgraph.renren.com%2Ferrorpage%3Ferror%3Dredirect_uri_mismatch%26error_description%3DThe%2Bredirect%2Buri%2Breceived%2Bmismatches%2Bthe%2Bregistered%2Buri%2Bassociated%2Bwith%2Bthe%2Bclient%2Bidentifier. (210.192.101.124) 0.69ms
+
+2011-05-11 17:58:43.923764 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.pyc
+reloading...
+
+2011-05-11 17:58:45.184785 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:59:00.521353 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:59:01.780358 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 17:59:31.207438 changed
+/home/vhost/s190/dongyi/tornado-chatroom/renren_oauth.py
+reloading...
+
+2011-05-11 18:02:54.580835 changed
+/home/vhost/s190/dongyi/tornado-chatroom/sina_auth.pyc
+reloading...
+
+2011-05-11 18:03:08.928592 changed
+/home/vhost/s190/dongyi/tornado-chatroom/sina_auth.py
+reloading...
+[E 110511 18:03:17 web:908] Uncaught exception GET /wblogout (210.192.101.124)
+    HTTPRequest(protocol='http', host='stdyun.com:41860', method='GET', uri='/wblogout', version='HTTP/1.1', remote_ip='210.192.101.124', body='', headers={'Accept-Language': 'zh-CN,zh;q=0.8', 'Accept-Encoding': 'gzip,deflate,sdch', 'Host': 'stdyun.com:41860', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.30 Safari/534.30', 'Accept-Charset': 'GBK,utf-8;q=0.7,*;q=0.3', 'Connection': 'keep-alive', 'Referer': 'http://stdyun.com:41860/', 'Cookie': '__utmz=31322749.1301065939.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=stdyun; E=yupbank@gmail.com; S=OZ6YAElWSU4wrw; _xsrf=0a2cd43c421545f7932a61c90efaf172; user=eyJmaXJzdF9uYW1lIjogInBlbmciLCAibGFzdF9uYW1lIjogInl1IiwgIm5hbWUiOiAicGVuZyB5dSJ9|1303293496|c632e5b41cb2ea23a3ed3b006d95abec6ffdf600; __utma=31322749.1149488069.1301065939.1303899215.1304946513.16; session_id=NzdiYWY5YTNkMzY5NWNjYmE5NTQ3MTliZWNmNTRmMTA=|1304948431|f55dec97592c41bad3c7ebb88b6c377f8ced13c2; hmac_digest=OGZjNTBiM2RkNWYxNDNmNzUxZWJhYTEwY2I1OGU3ZWFjM2FkNTg4Ng==|1304948431|c1244a0740df16c49cf42ce6afd4ded304cbeee5', 'If-None-Match': '"c7de09ea189e124893f424a2c0ca611d0a3b923e"'})
+    Traceback (most recent call last):
+      File "/home/vhost/s190/lib/python2.6/site-packages/tornado-1.2.1-py2.6.egg/tornado/web.py", line 869, in _execute
+        getattr(self, self.request.method.lower())(*args, **kwargs)
+      File "/home/vhost/s190/dongyi/tornado-chatroom/sina_auth.py", line 146, in get
+        mem.memberrm(self.session['me'].id)
+      File "/home/vhost/s190/dongyi/tornado-chatroom/member.py", line 18, in memberrm
+        del(Member[userid])
+    KeyError: '45116439'
+[E 110511 18:03:17 web:1243] 500 GET /wblogout (210.192.101.124) 12.91ms
+[W 110511 18:03:17 web:1243] 404 GET /favicon.ico (210.192.101.124) 0.33ms
+[I 110511 18:03:22 web:1243] 200 GET / (210.192.101.124) 33.84ms
+[W 110511 18:03:24 web:1243] 404 GET /favicon.ico (210.192.101.124) 0.35ms
+[I 110511 18:03:24 web:1243] 200 GET /wblogout (210.192.101.124) 37.36ms
+[W 110511 18:03:24 web:1243] 404 GET /favicon.ico (210.192.101.124) 0.34ms
+[I 110511 18:03:27 web:1243] 200 GET / (210.192.101.124) 1.44ms
+[W 110511 18:03:27 web:1243] 404 GET /favicon.ico (210.192.101.124) 0.31ms
+[I 110511 18:03:29 web:1243] 302 GET /wblogin?name=renren (210.192.101.124) 1.72ms
+[W 110511 18:03:58 web:1243] 404 GET /favicon.ico (210.192.101.124) 0.33ms
+[I 110511 18:04:00 web:1243] 302 GET /wblogin?name=renren (210.192.101.124) 0.90ms
+
+2011-05-11 18:07:54.716672 changed
+/home/vhost/s190/dongyi/tornado-chatroom/sina_auth.py
+reloading...
+[W 110511 18:08:01 web:1243] 404 GET /favicon.ico (210.192.101.124) 0.37ms
+[I 110511 18:08:02 web:1243] 302 GET /wblogin?name=renren (210.192.101.124) 2.17ms
+
+2011-05-11 18:08:58.326749 changed
+/home/vhost/s190/dongyi/tornado-chatroom/sina_auth.py
+reloading...
+[I 110511 18:09:25 web:1243] 304 GET / (210.192.101.124) 4.29ms
+[W 110511 18:09:25 web:1243] 404 GET /favicon.ico (210.192.101.124) 0.34ms
+[I 110511 18:09:27 web:1243] 302 GET /wblogin?name=renren (210.192.101.124) 2.16ms
+[I 110511 18:09:27 web:1243] 304 GET /wblogin_check?error=redirect_uri_mismatch&error_description=The+redirect+uri+received+mismatches+the+registered+uri+associated+with+the+client+identifier.&error_uri=http%3A%2F%2Fgraph.renren.com%2Ferrorpage%3Ferror%3Dredirect_uri_mismatch%26error_description%3DThe%2Bredirect%2Buri%2Breceived%2Bmismatches%2Bthe%2Bregistered%2Buri%2Bassociated%2Bwith%2Bthe%2Bclient%2Bidentifier. (210.192.101.124) 0.78ms
+[W 110511 18:09:27 web:1243] 404 GET /favicon.ico (210.192.101.124) 0.47ms
